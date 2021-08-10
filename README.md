@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 [<img align="left" alt="siberfx | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="siberfx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="siberfx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="siberfx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/envelope.svg" />][email]
+[<img align="left" alt="siberfx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />][email]
 
 <br />
 
 [website]: https://siberfx.nl
 [website2]: https://siberfx.com
-[email]: info@siberfx.com
+[email]: mailto:info@siberfx.com
 [instagram]: https://instagram.com/siberfx
 [twitter]: https://twitter.com/siberfx
 [linkedin]: https://linkedin.com/in/siberfx
