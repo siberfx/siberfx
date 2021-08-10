@@ -55,6 +55,9 @@ Here are some ideas to get you started:
 
 <br />
 
+[![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=siberfx)](https://github.com/siberfx/github-readme-stats)
+
+
 [website]: https://siberfx.nl
 [website2]: https://siberfx.com
 [email]: mailto:info@siberfx.com
