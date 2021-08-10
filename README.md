@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="siberfx | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="siberfx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="siberfx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="siberfx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />][email]
+[<img align="left" alt="siberfx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />][email]
 
 <br />
 
