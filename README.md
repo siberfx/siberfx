@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="Symfony" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/symfony.svg" />][symfony]
 
 <br />
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="siberfx.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -50,8 +52,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="siberfx | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="siberfx | E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />][email]
 [<img align="left" alt="siberfx | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-<br />
 
+<br />
 
 [website]: https://siberfx.nl
 [website2]: https://siberfx.com
