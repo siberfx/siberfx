@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <br />
 
-### Technologies I am using:
+### Technologies I am familiar with:
 [<img align="left" alt="Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg" />][linux]
 [<img align="left" alt="Linux Ubuntu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ubuntu.svg" />][ubuntu]
 [<img align="left" alt="Linux Shell" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/shell.svg" />][shell]
@@ -40,6 +40,15 @@ Here are some ideas to get you started:
 [<img align="left" alt="Docker" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" />][docker]
 [<img align="left" alt="Laravel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg" />][laravel]
 [<img align="left" alt="Symfony" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/symfony.svg" />][symfony]
+
+<br />
+
+### Tools and Programs:
+[<img align="left" alt="WebStorm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/webstorm.svg" />][webstorm]
+[<img align="left" alt="PhpStorm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/webstorm.svg" />][phpstorm]
+[<img align="left" alt="Sublime" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sublimetext.svg" />][sublime]
+[<img align="left" alt="PostMan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postman.svg" />][postman]
+[<img align="left" alt="Adobe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobe.svg" />][adobe]
 
 <br />
 
@@ -65,5 +74,10 @@ Here are some ideas to get you started:
 [vue]: https://vuejs.org
 [docker]: https://docker.com
 [shell]: https://ubuntu.com/tutorials/command-line-for-beginners
+[adobe]: https://adobe.com
+[postman]: https://postman.com
+[sublime]: https://www.sublimetext.com/
+[webstorm]: https://www.jetbrains.com/webstorm/
+[phpstorm]: https://www.jetbrains.com/phpstorm/
 
 
