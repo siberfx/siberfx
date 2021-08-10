@@ -12,13 +12,32 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="siberfx.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="siberfx.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="siberfx.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website2]
 [<img align="left" alt="siberfx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="siberfx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="siberfx | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="siberfx | E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />][email]
 [<img align="left" alt="siberfx | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+
+<br />
+
+### Technologies I am using:
+[<img align="left" alt="Linux" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linux.svg" />][linux]
+[<img align="left" alt="Linux Ubuntu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/ubuntu.svg" />][ubuntu]
+[<img align="left" alt="Npm" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/npm.svg" />][npm]
+[<img align="left" alt="Php" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/php.svg" />][php]
+[<img align="left" alt="MySQL" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/mysql.svg" />][mysql]
+[<img align="left" alt="Bootstrap" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/bootstrap.svg" />][bootstrap]
+
+
+[<img align="left" alt="HTML5" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/html5.svg" />][html5]
+[<img align="left" alt="CSS3" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/css3.svg" />][css3]
+[<img align="left" alt="Vue" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/vue-dot-js.svg" />][vue]
+[<img align="left" alt="W3C" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/w3c.svg" />][v3c]
+
+[<img align="left" alt="Laravel" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/laravel.svg" />][laravel]
+[<img align="left" alt="Symfony" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/symfony.svg" />][symfony]
 
 <br />
 
@@ -29,4 +48,20 @@ Here are some ideas to get you started:
 [instagram]: https://instagram.com/siberfx
 [twitter]: https://twitter.com/siberfx
 [linkedin]: https://linkedin.com/in/siberfx
+
+
+[laravel]: https://laravel.com
+[symfony]: https://symfony.com
+
+[linux]: https://www.linux.org
+[ubuntu]: https://ubuntu.com
+[npm]: https://www.npmjs.com
+[php]: https://www.php.net
+[mysql]: https://www.mysql.com
+[bootstrap]: https://getbootstrap.com
+[html5]: https://www.w3schools.com/html
+[css3]: https://www.w3schools.com/css
+[v3c]: https://www.w3.org
+[vue]: https://vuejs.org
+
 
