@@ -10,15 +10,14 @@ Here are some ideas to get you started:
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn new technologies and programming languages
 
-### Connect with me:
+<br />
 
-[<img align="left" alt="siberfx.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="siberfx.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website2]
-[<img align="left" alt="siberfx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="siberfx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="siberfx | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="siberfx | E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />][email]
-[<img align="left" alt="siberfx | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+### Tools and Programs:
+[<img align="left" alt="WebStorm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/webstorm.svg" />][webstorm]
+[<img align="left" alt="PhpStorm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/webstorm.svg" />][phpstorm]
+[<img align="left" alt="Sublime" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sublimetext.svg" />][sublime]
+[<img align="left" alt="PostMan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postman.svg" />][postman]
+[<img align="left" alt="Adobe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobe.svg" />][adobe]
 
 <br />
 
@@ -42,15 +41,17 @@ Here are some ideas to get you started:
 [<img align="left" alt="Symfony" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/symfony.svg" />][symfony]
 
 <br />
+### Connect with me:
 
-### Tools and Programs:
-[<img align="left" alt="WebStorm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/webstorm.svg" />][webstorm]
-[<img align="left" alt="PhpStorm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/webstorm.svg" />][phpstorm]
-[<img align="left" alt="Sublime" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sublimetext.svg" />][sublime]
-[<img align="left" alt="PostMan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postman.svg" />][postman]
-[<img align="left" alt="Adobe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobe.svg" />][adobe]
-
+[<img align="left" alt="siberfx.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="siberfx.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website2]
+[<img align="left" alt="siberfx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="siberfx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="siberfx | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="siberfx | E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />][email]
+[<img align="left" alt="siberfx | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 <br />
+
 
 [website]: https://siberfx.nl
 [website2]: https://siberfx.com
