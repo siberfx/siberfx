@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📫 You can contact me: [email]: info@siberfx.com
+
+[website]: https://siberfx.com
+[website]: https://siberfx.nl
