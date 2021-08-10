@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ### Technologies I am using:
 [<img align="left" alt="Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg" />][linux]
 [<img align="left" alt="Linux Ubuntu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ubuntu.svg" />][ubuntu]
+[<img align="left" alt="Linux Shell" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/shell.svg" />][shell]
 [<img align="left" alt="Npm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/npm.svg" />][npm]
 [<img align="left" alt="Php" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" />][php]
 [<img align="left" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />][mysql]
@@ -36,6 +37,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Vue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vue-dot-js.svg" />][vue]
 [<img align="left" alt="W3C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/w3c.svg" />][v3c]
 
+[<img align="left" alt="Docker" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" />][docker]
 [<img align="left" alt="Laravel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg" />][laravel]
 [<img align="left" alt="Symfony" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/symfony.svg" />][symfony]
 
@@ -61,5 +63,7 @@ Here are some ideas to get you started:
 [css3]: https://www.w3schools.com/css
 [v3c]: https://www.w3.org
 [vue]: https://vuejs.org
+[docker]: https://docker.com
+[shell]: https://ubuntu.com/tutorials/command-line-for-beginners
 
 
