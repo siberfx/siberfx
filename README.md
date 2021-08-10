@@ -23,21 +23,21 @@ Here are some ideas to get you started:
 <br />
 
 ### Technologies I am using:
-[<img align="left" alt="Linux" width="22px" src="https://raw.githubusercontent.com/iconic/linux.svg" />][linux]
-[<img align="left" alt="Linux Ubuntu" width="22px" src="https://raw.githubusercontent.com/ubuntu.svg" />][ubuntu]
-[<img align="left" alt="Npm" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/npm.svg" />][npm]
-[<img align="left" alt="Php" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/php.svg" />][php]
-[<img align="left" alt="MySQL" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/mysql.svg" />][mysql]
-[<img align="left" alt="Bootstrap" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/bootstrap.svg" />][bootstrap]
+[<img align="left" alt="Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg" />][linux]
+[<img align="left" alt="Linux Ubuntu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ubuntu.svg" />][ubuntu]
+[<img align="left" alt="Npm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/npm.svg" />][npm]
+[<img align="left" alt="Php" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" />][php]
+[<img align="left" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />][mysql]
+[<img align="left" alt="Bootstrap" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg" />][bootstrap]
 
 
-[<img align="left" alt="HTML5" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/html5.svg" />][html5]
-[<img align="left" alt="CSS3" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/css3.svg" />][css3]
-[<img align="left" alt="Vue" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/vue-dot-js.svg" />][vue]
-[<img align="left" alt="W3C" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/w3c.svg" />][v3c]
+[<img align="left" alt="HTML5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />][html5]
+[<img align="left" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />][css3]
+[<img align="left" alt="Vue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vue-dot-js.svg" />][vue]
+[<img align="left" alt="W3C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/w3c.svg" />][v3c]
 
-[<img align="left" alt="Laravel" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/laravel.svg" />][laravel]
-[<img align="left" alt="Symfony" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/symfony.svg" />][symfony]
+[<img align="left" alt="Laravel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg" />][laravel]
+[<img align="left" alt="Symfony" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/symfony.svg" />][symfony]
 
 <br />
 
