@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📫 You can contact me: [email]: info@siberfx.com
-
-[website]: https://siberfx.com
+<br />
+[instagram]: https://instagram.com/siberfx
 [website]: https://siberfx.nl
