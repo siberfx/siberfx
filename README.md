@@ -57,9 +57,6 @@ Here are some ideas to get you started:
 [![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=siberfx&count_private=true&show_icons=true&theme=dracula)](https://github.com/siberfx/github-readme-stats)
 
 <br />
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siberfx&layout=compact&theme=dracula&langs_count=8)](https://github.com/siberfx/github-readme-stats)
 
 [website]: https://siberfx.nl
 [website2]: https://siberfx.com
