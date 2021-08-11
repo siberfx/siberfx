@@ -1,15 +1,15 @@
 ### Hi there, I'm Selim - aka [siberfx][website2] 👋
 
+
 ![](https://komarev.com/ghpvc/?username=siberfx&label=VIEWS&color=orange)
+<img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/siberfx/siberfx?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/siberfx/siberfx?style=flat-square&labelColor=343b41"/></p>
 <!--
 **siberfx/siberfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to learn new technologies and programming languages
 
 <br />
 
@@ -63,7 +63,6 @@ Here are some ideas to get you started:
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siberfx&layout=compact&theme=dracula&langs_count=8)](https://github.com/siberfx/github-readme-stats)
-
 
 [website]: https://siberfx.nl
 [website2]: https://siberfx.com
