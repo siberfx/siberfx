@@ -1,3 +1,5 @@
+![ViewCount](https://views.whatilearened.today/views/github/Siberfx/Siberfx.svg?cache=remove)
+
 ### Hi there, I'm Selim - aka [siberfx][website2] 👋
 
 <!--
