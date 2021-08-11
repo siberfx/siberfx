@@ -1,4 +1,4 @@
-### Hi there, I'm Selim - aka [siberfx][website2] 👋
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
 ![](https://komarev.com/ghpvc/?username=siberfx&label=VIEWS&color=orange)
@@ -8,10 +8,7 @@
 Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
-
-<br />
 
 ### Tools and Programs:
 [<img align="left" alt="WebStorm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/webstorm.svg" />][webstorm]
