@@ -1,7 +1,7 @@
-![ViewCount](https://views.whatilearened.today/views/github/Siberfx/Siberfx.svg?cache=remove)
-
 ### Hi there, I'm Selim - aka [siberfx][website2] 👋
 
+![ViewCount](https://views.whatilearened.today/views/github/Siberfx/Siberfx.svg?cache=remove)
+![](https://komarev.com/ghpvc/?username=siberfx&label=VIEWS&color=orange)
 <!--
 **siberfx/siberfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
