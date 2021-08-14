@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ### Technologies I am familiar with:
 [<img align="left" alt="Linux" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/linux.gif" />][linux]
 [<img align="left" alt="Linux Ubuntu" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/ubuntu.jpg" />][ubuntu]
+[<img align="left" alt="Linux Terminal" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/bash.jpg" />][shell]
 [<img align="left" alt="Linux Shell" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/terminal.png" />][shell]
 [<img align="left" alt="Npm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/npm.png" />][npm]
 [<img align="left" alt="Php" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/php.jpg" />][php]
@@ -90,5 +91,6 @@ Here are some ideas to get you started:
 [sublime]: https://www.sublimetext.com/
 [webstorm]: https://www.jetbrains.com/webstorm/
 [phpstorm]: https://www.jetbrains.com/phpstorm/
+[terminal]: https://cocalc.com/doc/terminal.html
 
 
