@@ -19,36 +19,36 @@ Here are some ideas to get you started:
 <br />
 
 ### Technologies I am familiar with:
-[<img align="left" alt="Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg" />][linux]
-[<img align="left" alt="Linux Ubuntu" width="22px" src="https://github.com/siberfx/siberfx/raw/main/icons/ubuntu.jpg" />][ubuntu]
-[<img align="left" alt="Linux Shell" width="22px" src="https://github.com/siberfx/siberfx/raw/main/icons/terminal.png" />][shell]
-[<img align="left" alt="Npm" width="22px" src="https://github.com/siberfx/siberfx/raw/main/icons/npm.png" />][npm]
-[<img align="left" alt="Php" width="22px" src="https://github.com/siberfx/siberfx/raw/main/icons/php.jpg" />][php]
-[<img align="left" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />][mysql]
-[<img align="left" alt="Bootstrap" width="22px" src="https://github.com/siberfx/siberfx/raw/main/icons/bootstrap.png" />][bootstrap]
+[<img align="left" alt="Linux" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg" />][linux]
+[<img align="left" alt="Linux Ubuntu" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/ubuntu.jpg" />][ubuntu]
+[<img align="left" alt="Linux Shell" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/terminal.png" />][shell]
+[<img align="left" alt="Npm" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/npm.png" />][npm]
+[<img align="left" alt="Php" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/php.jpg" />][php]
+[<img align="left" alt="MySQL" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />][mysql]
+[<img align="left" alt="Bootstrap" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/bootstrap.png" />][bootstrap]
 
 
-[<img align="left" alt="HTML5" width="22px" src="https://github.com/siberfx/siberfx/raw/main/icons/html5.png" />][html5]
-[<img align="left" alt="CSS3" width="22px" src="https://github.com/siberfx/siberfx/raw/main/icons/css3.png" />][css3]
-[<img align="left" alt="Vue" width="22px" src="https://github.com/siberfx/siberfx/raw/main/icons/vue.png" />][vue]
-[<img align="left" alt="W3C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/w3c.svg" />][v3c]
+[<img align="left" alt="HTML5" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/html5.png" />][html5]
+[<img align="left" alt="CSS3" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/css3.png" />][css3]
+[<img align="left" alt="Vue" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/vue.png" />][vue]
+[<img align="left" alt="W3C" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/w3c.svg" />][v3c]
 
-[<img align="left" alt="Docker" width="22px" src="https://github.com/siberfx/siberfx/raw/main/icons/docker.png" />][docker]
-[<img align="left" alt="Laravel" width="22px" src="https://github.com/siberfx/siberfx/raw/main/icons/laravel.jpg" />][laravel]
-[<img align="left" alt="Symfony" width="22px" src="https://github.com/siberfx/siberfx/raw/main/icons/symfony.png" />][symfony]
+[<img align="left" alt="Docker" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/docker.png" />][docker]
+[<img align="left" alt="Laravel" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/laravel.jpg" />][laravel]
+[<img align="left" alt="Symfony" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/symfony.png" />][symfony]
 
 <br />
 <br />
 
 ### Connect with me:
 
-[<img align="left" alt="siberfx.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="siberfx.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website2]
-[<img align="left" alt="siberfx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="siberfx | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="siberfx | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="siberfx | E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />][email]
-[<img align="left" alt="siberfx | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="siberfx.nl" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="siberfx.com" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website2]
+[<img align="left" alt="siberfx | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="siberfx | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="siberfx | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="siberfx | E-mail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />][email]
+[<img align="left" alt="siberfx | Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 <br />
