@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br />
 
 ### Technologies I am familiar with:
-[<img align="left" alt="Linux" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg" />][linux]
+[<img align="left" alt="Linux" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/linux.gif" />][linux]
 [<img align="left" alt="Linux Ubuntu" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/ubuntu.jpg" />][ubuntu]
 [<img align="left" alt="Linux Shell" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/terminal.png" />][shell]
 [<img align="left" alt="Npm" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/npm.png" />][npm]
