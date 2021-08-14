@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Php" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/php.jpg" />][php]
 [<img align="left" alt="MySQL" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/mysql.png" />][mysql]
 [<img align="left" alt="Redis" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/redis.png" />][redis]
+[<img align="left" alt="Adobe" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/adobe.png" />][adobe]
 [<img align="left" alt="Bootstrap" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/bootstrap.png" />][bootstrap]
 
 
@@ -90,6 +91,7 @@ Here are some ideas to get you started:
 [docker]: https://docker.com
 [shell]: https://ubuntu.com/tutorials/command-line-for-beginners
 [adobe]: https://adobe.com
+[gulp]: https://gulpjs.com/
 [postman]: https://postman.com
 [sublime]: https://www.sublimetext.com/
 [webstorm]: https://www.jetbrains.com/webstorm/
