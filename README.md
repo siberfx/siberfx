@@ -42,13 +42,13 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="siberfx.nl" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="siberfx.com" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website2]
-[<img align="left" alt="siberfx | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="siberfx | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="siberfx | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="siberfx.nl" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.gif" />][website]
+[<img align="left" alt="siberfx.com" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.gif" />][website2]
+[<img align="left" alt="siberfx | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.gif" />][linkedin]
+[<img align="left" alt="siberfx | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.gif" />][instagram]
+[<img align="left" alt="siberfx | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.gif" />][twitter]
 [<img align="left" alt="siberfx | E-mail" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/envelope.gif" />][email]
-[<img align="left" alt="siberfx | Telegram" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/telegram.svg" />][telegram]
+[<img align="left" alt="siberfx | Telegram" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/telegram.gif" />][telegram]
 
 <br />
 <br />
