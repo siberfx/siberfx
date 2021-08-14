@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
 
 
 ![](https://komarev.com/ghpvc/?username=siberfx&label=VIEWS&color=orange)
@@ -11,31 +11,31 @@ Here are some ideas to get you started:
 
 
 ### Tools and Programs:
-[<img align="left" alt="WebStorm" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/IntelliJIDEA.png" />][webstorm]
-[<img align="left" alt="PhpStorm" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/phpstorm.png" />][phpstorm]
-[<img align="left" alt="Sublime" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/sublimetext.jpg" />][sublime]
-[<img align="left" alt="PostMan" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/postman.png" />][postman]
+[<img align="left" alt="WebStorm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/IntelliJIDEA.png" />][webstorm]
+[<img align="left" alt="PhpStorm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/phpstorm.png" />][phpstorm]
+[<img align="left" alt="Sublime" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/sublimetext.jpg" />][sublime]
+[<img align="left" alt="PostMan" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/postman.png" />][postman]
 
 <br />
 
 ### Technologies I am familiar with:
-[<img align="left" alt="Linux" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/linux.gif" />][linux]
-[<img align="left" alt="Linux Ubuntu" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/ubuntu.jpg" />][ubuntu]
-[<img align="left" alt="Linux Shell" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/terminal.png" />][shell]
-[<img align="left" alt="Npm" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/npm.png" />][npm]
-[<img align="left" alt="Php" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/php.jpg" />][php]
-[<img align="left" alt="MySQL" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />][mysql]
-[<img align="left" alt="Bootstrap" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/bootstrap.png" />][bootstrap]
+[<img align="left" alt="Linux" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/linux.gif" />][linux]
+[<img align="left" alt="Linux Ubuntu" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/ubuntu.jpg" />][ubuntu]
+[<img align="left" alt="Linux Shell" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/terminal.png" />][shell]
+[<img align="left" alt="Npm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/npm.png" />][npm]
+[<img align="left" alt="Php" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/php.jpg" />][php]
+[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />][mysql]
+[<img align="left" alt="Bootstrap" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/bootstrap.png" />][bootstrap]
 
 
-[<img align="left" alt="HTML5" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/html5.png" />][html5]
-[<img align="left" alt="CSS3" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/css3.png" />][css3]
-[<img align="left" alt="Vue" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/vue.png" />][vue]
-[<img align="left" alt="W3C" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/w3c.svg" />][v3c]
+[<img align="left" alt="HTML5" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/html5.png" />][html5]
+[<img align="left" alt="CSS3" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/css3.png" />][css3]
+[<img align="left" alt="Vue" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/vue.png" />][vue]
+[<img align="left" alt="W3C" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/w3c.svg" />][v3c]
 
-[<img align="left" alt="Docker" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/docker.png" />][docker]
-[<img align="left" alt="Laravel" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/laravel.jpg" />][laravel]
-[<img align="left" alt="Symfony" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/symfony.png" />][symfony]
+[<img align="left" alt="Docker" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/docker.png" />][docker]
+[<img align="left" alt="Laravel" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/laravel.jpg" />][laravel]
+[<img align="left" alt="Symfony" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/symfony.png" />][symfony]
 
 <br />
 <br />
