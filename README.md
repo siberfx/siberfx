@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 
 
 ### Tools and Programs:
-[<img align="left" alt="WebStorm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/IntelliJIDEA.png" />][webstorm]
+[<img align="left" alt="WebStorm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/webstorm.png" />][webstorm]
 [<img align="left" alt="PhpStorm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/phpstorm.png" />][phpstorm]
-[<img align="left" alt="Sublime" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/sublimetext.jpg" />][sublime]
+[<img align="left" alt="Sublime" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/sublimetext.png" />][sublime]
 [<img align="left" alt="PostMan" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/postman.png" />][postman]
 
 <br />
@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 [<img align="left" alt="Linux Shell" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/terminal.png" />][shell]
 [<img align="left" alt="Npm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/npm.png" />][npm]
 [<img align="left" alt="Php" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/php.jpg" />][php]
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />][mysql]
+[<img align="left" alt="MySQL" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/mysql.png" />][mysql]
 [<img align="left" alt="Bootstrap" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/bootstrap.png" />][bootstrap]
 
 
 [<img align="left" alt="HTML5" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/html5.png" />][html5]
 [<img align="left" alt="CSS3" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/css3.png" />][css3]
 [<img align="left" alt="Vue" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/vue.png" />][vue]
-[<img align="left" alt="W3C" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/w3c.svg" />][v3c]
+[<img align="left" alt="W3C" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/w3c.png" />][v3c]
 
 [<img align="left" alt="Docker" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/docker.png" />][docker]
 [<img align="left" alt="Laravel" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/laravel.jpg" />][laravel]
