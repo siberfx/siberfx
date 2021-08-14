@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Npm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/npm.png" />][npm]
 [<img align="left" alt="Php" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/php.jpg" />][php]
 [<img align="left" alt="MySQL" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/mysql.png" />][mysql]
+[<img align="left" alt="Redis" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/redis.png" />][redis]
 [<img align="left" alt="Bootstrap" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/bootstrap.png" />][bootstrap]
 
 
@@ -36,6 +37,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Docker" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/docker.png" />][docker]
 [<img align="left" alt="Laravel" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/laravel.jpg" />][laravel]
 [<img align="left" alt="Symfony" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/symfony.png" />][symfony]
+[<img align="left" alt="Yii" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/yii.png" />][yii]
 
 <br />
 <br />
@@ -47,6 +49,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="siberfx | LinkedIn" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/linkedin.gif" />][linkedin]
 [<img align="left" alt="siberfx | Instagram" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/instagram.gif" />][instagram]
 [<img align="left" alt="siberfx | Twitter" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/twitter.gif" />][twitter]
+[<img align="left" alt="siberfx | StackOverflow" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/stackoverflow.png" />][twitter]
 [<img align="left" alt="siberfx | E-mail" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/envelope.gif" />][email]
 [<img align="left" alt="siberfx | Telegram" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/telegram.gif" />][telegram]
 
@@ -64,14 +67,17 @@ Here are some ideas to get you started:
 [instagram]: https://instagram.com/siberfx
 [twitter]: https://twitter.com/siberfx
 [linkedin]: https://linkedin.com/in/siberfx
+[stackoverflow]: https://stackoverflow.com/users/8279182/g-selim
 
 [laravel]: https://laravel.com
 [symfony]: https://symfony.com
+[yii]: https://www.yiiframework.com
 [linux]: https://www.linux.org
 [ubuntu]: https://ubuntu.com
 [npm]: https://www.npmjs.com
 [php]: https://www.php.net
 [mysql]: https://www.mysql.com
+[redis]: https://redis.io
 [bootstrap]: https://getbootstrap.com
 [html5]: https://www.w3schools.com/html
 [css3]: https://www.w3schools.com/css
