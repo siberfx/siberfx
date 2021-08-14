@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="siberfx | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="siberfx | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="siberfx | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="siberfx | E-mail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />][email]
+[<img align="left" alt="siberfx | E-mail" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/envelope.gif" />][email]
 [<img align="left" alt="siberfx | Telegram" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/telegram.svg" />][telegram]
 
 <br />
