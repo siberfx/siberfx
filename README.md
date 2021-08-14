@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="siberfx | E-mail" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/envelope.gif" />][email]
 [<img align="left" alt="siberfx | Telegram" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/telegram.gif" />][telegram]
 [<img align="left" alt="siberfx | GitLab" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/gitlab.png" />][gitlab]
-[<img align="left" alt="siberfx | BitBucket" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/bitbucket.jpg" />][gitlab]
+[<img align="left" alt="siberfx | BitBucket" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/bitbucket.jpg" />][bitbucket]
 
 <br />
 <br />
