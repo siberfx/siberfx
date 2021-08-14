@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="Gulp" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/gulp.png" />][gulp]
 [<img align="left" alt="Npm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/npm.png" />][npm]
 [<img align="left" alt="Php" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/php.jpg" />][php]
+
 [<img align="left" alt="MySQL" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/mysql.png" />][mysql]
 [<img align="left" alt="Redis" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/redis.png" />][redis]
 [<img align="left" alt="Adobe" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/adobe.png" />][adobe]
-<br />
 [<img align="left" alt="Bootstrap" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/bootstrap.png" />][bootstrap]
 [<img align="left" alt="HTML5" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/html5.png" />][html5]
 [<img align="left" alt="CSS3" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/css3.png" />][css3]
@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="Symfony" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/symfony.png" />][symfony]
 [<img align="left" alt="Yii" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/yii.png" />][yii]
 
+<br />
+<br />
 <br />
 <br />
 
