@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Linux Ubuntu" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/ubuntu.jpg" />][ubuntu]
 [<img align="left" alt="Linux Terminal" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/bash.jpg" />][shell]
 [<img align="left" alt="Linux Shell" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/terminal.png" />][shell]
+[<img align="left" alt="Gulp" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/gulp.png" />][gulp]
 [<img align="left" alt="Npm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/npm.png" />][npm]
 [<img align="left" alt="Php" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/php.jpg" />][php]
 [<img align="left" alt="MySQL" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/mysql.png" />][mysql]
@@ -53,6 +54,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="siberfx | StackOverflow" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/stackoverflow.png" />][stackoverflow]
 [<img align="left" alt="siberfx | E-mail" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/envelope.gif" />][email]
 [<img align="left" alt="siberfx | Telegram" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/telegram.gif" />][telegram]
+[<img align="left" alt="siberfx | GitLab" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/gitlab.png" />][gitlab]
+[<img align="left" alt="siberfx | BitBucket" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/bitbucket.jpg" />][gitlab]
 
 <br />
 <br />
@@ -92,5 +95,7 @@ Here are some ideas to get you started:
 [webstorm]: https://www.jetbrains.com/webstorm/
 [phpstorm]: https://www.jetbrains.com/phpstorm/
 [terminal]: https://cocalc.com/doc/terminal.html
+[gitlab]: https://gitlab.com/siberfx
+[bitbucket]: https://bitbucket.org/siberfx
 
 
