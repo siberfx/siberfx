@@ -11,32 +11,31 @@ Here are some ideas to get you started:
 
 
 ### Tools and Programs:
-[<img align="left" alt="WebStorm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/webstorm.svg" />][webstorm]
-[<img align="left" alt="PhpStorm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/webstorm.svg" />][phpstorm]
-[<img align="left" alt="Sublime" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sublimetext.svg" />][sublime]
-[<img align="left" alt="PostMan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postman.svg" />][postman]
-[<img align="left" alt="Adobe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobe.svg" />][adobe]
+[<img align="left" alt="WebStorm" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/IntelliJIDEA.png" />][webstorm]
+[<img align="left" alt="PhpStorm" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/phpstorm.png" />][phpstorm]
+[<img align="left" alt="Sublime" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/sublimetext.jpg" />][sublime]
+[<img align="left" alt="PostMan" width="25px" src="https://github.com/siberfx/siberfx/raw/main/icons/postman.png" />][postman]
 
 <br />
 
 ### Technologies I am familiar with:
 [<img align="left" alt="Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg" />][linux]
-[<img align="left" alt="Linux Ubuntu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ubuntu.svg" />][ubuntu]
-[<img align="left" alt="Linux Shell" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/shell.svg" />][shell]
-[<img align="left" alt="Npm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/npm.svg" />][npm]
-[<img align="left" alt="Php" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" />][php]
+[<img align="left" alt="Linux Ubuntu" width="22px" src="https://github.com/siberfx/siberfx/raw/main/icons/ubuntu.jpg" />][ubuntu]
+[<img align="left" alt="Linux Shell" width="22px" src="https://github.com/siberfx/siberfx/raw/main/icons/terminal.png" />][shell]
+[<img align="left" alt="Npm" width="22px" src="https://github.com/siberfx/siberfx/raw/main/icons/npm.png" />][npm]
+[<img align="left" alt="Php" width="22px" src="https://github.com/siberfx/siberfx/raw/main/icons/php.jpg" />][php]
 [<img align="left" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />][mysql]
-[<img align="left" alt="Bootstrap" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg" />][bootstrap]
+[<img align="left" alt="Bootstrap" width="22px" src="https://github.com/siberfx/siberfx/raw/main/icons/bootstrap.png" />][bootstrap]
 
 
-[<img align="left" alt="HTML5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />][html5]
-[<img align="left" alt="CSS3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />][css3]
-[<img align="left" alt="Vue" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vue-dot-js.svg" />][vue]
+[<img align="left" alt="HTML5" width="22px" src="https://github.com/siberfx/siberfx/raw/main/icons/html5.png" />][html5]
+[<img align="left" alt="CSS3" width="22px" src="https://github.com/siberfx/siberfx/raw/main/icons/css3.png" />][css3]
+[<img align="left" alt="Vue" width="22px" src="https://github.com/siberfx/siberfx/raw/main/icons/vue.png" />][vue]
 [<img align="left" alt="W3C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/w3c.svg" />][v3c]
 
-[<img align="left" alt="Docker" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" />][docker]
-[<img align="left" alt="Laravel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg" />][laravel]
-[<img align="left" alt="Symfony" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/symfony.svg" />][symfony]
+[<img align="left" alt="Docker" width="22px" src="https://github.com/siberfx/siberfx/raw/main/icons/docker.png" />][docker]
+[<img align="left" alt="Laravel" width="22px" src="https://github.com/siberfx/siberfx/raw/main/icons/laravel.jpg" />][laravel]
+[<img align="left" alt="Symfony" width="22px" src="https://github.com/siberfx/siberfx/raw/main/icons/symfony.png" />][symfony]
 
 <br />
 <br />
