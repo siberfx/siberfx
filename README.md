@@ -2,7 +2,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=siberfx&label=VIEWS&color=orange)
-<img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/siberfx/siberfx?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/siberfx/siberfx?style=flat-square&labelColor=343b41"/></p>
+<img src="https://github.com/thmsgbrt/siberfx/siberfx/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/siberfx/siberfx?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/siberfx/siberfx?style=flat-square&labelColor=343b41"/></p>
 <!--
 **siberfx/siberfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
