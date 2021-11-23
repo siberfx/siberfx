@@ -44,22 +44,24 @@ Here are some ideas to get you started:
 [<img align="left" alt="Symfony" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/symfony.png" />][symfony]
 [<img align="left" alt="Yii" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/yii.png" />][yii]
 
+<br />
+<br />
+<br />
+
+### Web Services I prefer to use:
+
 [<img align="left" alt="RabbitMQ" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/rabbitmq.png" />][rabbitmq]
 [<img align="left" alt="AWS S3" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/aws-s3.png" />][aws-s3]
 [<img align="left" alt="AWS SQS" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/aws-sqs.png" />][aws-sqs]
 [<img align="left" alt="Pusher" width="30px" height="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/pusher.png" />][pusher]
 [<img align="left" alt="Wasabi s3" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/wasabi.png" />][wasabi]
 [<img align="left" alt="Mapbox" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/mapbox-leafjs.png" />][mapbox]
-
-
-<br />
 <br />
 <br />
 
 ### Connect with me:
 
 [<img align="left" alt="siberfx.nl" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/globe.gif" />][website]
-[<img align="left" alt="siberfx.com" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/globe.gif" />][website2]
 [<img align="left" alt="siberfx | LinkedIn" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/linkedin.gif" />][linkedin]
 [<img align="left" alt="siberfx | Instagram" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/instagram.gif" />][instagram]
 [<img align="left" alt="siberfx | Twitter" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/twitter.gif" />][twitter]
@@ -76,8 +78,7 @@ Here are some ideas to get you started:
 
 <br />
 
-[website]: https://siberfx.nl
-[website2]: https://siberfx.com
+[website]: https://siberfx.com
 [email]: mailto:info@siberfx.com
 [telegram]: https://t.me/siberfx
 [instagram]: https://instagram.com/siberfx
