@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="RabbitMQ" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/rabbitmq.png" />][rabbitmq]
 [<img align="left" alt="AWS S3" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/aws-s3.png" />][aws-s3]
 [<img align="left" alt="AWS SQS" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/aws-sqs.png" />][aws-sqs]
-[<img align="left" alt="Pusher" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/pusher.png" />][pusher]
+[<img align="left" alt="Pusher" width="30px" height="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/pusher.png" />][pusher]
 [<img align="left" alt="Wasabi s3" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/wasabi.png" />][wasabi]
 [<img align="left" alt="Mapbox" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/mapbox-leafjs.png" />][mapbox]
 
