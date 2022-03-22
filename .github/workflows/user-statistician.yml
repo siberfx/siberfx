@@ -15,7 +15,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - name: siberfx
-      uses: cicirello/user-statistician@v1
+    - name: Generate the user stats image
+      uses: siberfx/user-statistician@v1
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
