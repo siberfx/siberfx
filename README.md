@@ -1,6 +1,5 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
 
-![gitartwork](gitartwork.svg)
 <br>
 <img src="https://raw.githubusercontent.com/siberfx/siberfx/output/github-contribution-grid-snake.svg" style="width:100%;" alt="Snake">
 
