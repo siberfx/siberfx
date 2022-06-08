@@ -1,6 +1,3 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:30px"></a>
-
-<br>
 <img src="https://raw.githubusercontent.com/siberfx/siberfx/output/github-contribution-grid-snake.svg" style="width:100%;" alt="Snake">
 
 ![](https://komarev.com/ghpvc/?username=siberfx&style=plastic&label=views&color=orange)
