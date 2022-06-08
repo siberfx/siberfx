@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 ### Tools and Programs:
-[<img align="left" alt="Linux" style="width:30px" src="https://github.com/siberfx/siberfx/raw/main/icons/linux.gif" />][linux]
+[<img align="left" alt="Linux" style="width:30px" src="https://github.com/siberfx/siberfx/raw/main/icons/linux.png" />][linux]
 [<img align="left" alt="Linux Ubuntu" style="width:30px" src="https://github.com/siberfx/siberfx/raw/main/icons/ubuntu.jpg" />][ubuntu]
 
 [<img align="left" alt="Adobe" style="width:30px" src="https://github.com/siberfx/siberfx/raw/main/icons/adobe.png" />][adobe]
@@ -65,16 +65,16 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="siberfx.nl" style="width:30px" src="https://github.com/siberfx/siberfx/raw/main/icons/globe.gif" />][website]
-[<img align="left" alt="siberfx | LinkedIn" style="width:30px" src="https://github.com/siberfx/siberfx/raw/main/icons/linkedin.gif" />][linkedin]
-[<img align="left" alt="siberfx | Instagram" style="width:30px" src="https://github.com/siberfx/siberfx/raw/main/icons/instagram.gif" />][instagram]
-[<img align="left" alt="siberfx | Twitter" style="width:30px" src="https://github.com/siberfx/siberfx/raw/main/icons/twitter.gif" />][twitter]
-[<img align="left" alt="siberfx | StackOverflow" style="width:30px" src="https://github.com/siberfx/siberfx/raw/main/icons/stackoverflow.png" />][stackoverflow]
-[<img align="left" alt="siberfx | E-mail" style="width:30px" src="https://github.com/siberfx/siberfx/raw/main/icons/envelope.gif" />][email]
-[<img align="left" alt="siberfx | Telegram" style="width:30px" src="https://github.com/siberfx/siberfx/raw/main/icons/telegram.gif" />][telegram]
-[<img align="left" alt="siberfx | GitLab" style="width:30px" src="https://github.com/siberfx/siberfx/raw/main/icons/gitlab.png" />][gitlab]
-[<img align="left" alt="siberfx | BitBucket" style="width:30px" src="https://github.com/siberfx/siberfx/raw/main/icons/bitbucket.jpg" />][bitbucket]
-[<img align="left" alt="siberfx | LeetCode" style="width:30px" src="https://github.com/siberfx/siberfx/raw/main/icons/leetcode.png" />][leetcode]
+[Site][website]
+[LinkedIn][linkedin]<br>
+[Instagram][instagram]<br>
+[Twitter][twitter]<br>
+[Stackoverflow][stackoverflow]<br>
+[E-mail][email]<br>
+[Telegram][telegram]<br>
+[GitLab][gitlab]<br>
+[Bitbucket][bitbucket]<br>
+[Leetcode][leetcode]
 
 <br />
 <br />
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 <br />
 
 [website]: https://siberfx.com
-[email]: mailto:info@siberfx.com
+[email]: mailto:info@siberfx.com?subject=github-link
 [telegram]: https://t.me/siberfx
 [instagram]: https://instagram.com/siberfx
 [twitter]: https://twitter.com/siberfx
