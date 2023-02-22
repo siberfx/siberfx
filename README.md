@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=siberfx&style=plastic&label=views&color=orange)
- <img alt="Stars" src="https://img.shields.io/github/stars/siberfx/backpack-leafjs?style=plastic&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/siberfx/backpack-leafjs?style=plastic&labelColor=343b41"/>
+ <img alt="Stars" src="https://img.shields.io/github/stars/siberfx/backpack-leafletjs?style=plastic&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/siberfx/backpack-leafletjs?style=plastic&labelColor=343b41"/>
  [![Latest Version on Packagist](https://img.shields.io/packagist/dt/siberfx/backpack-leafletjs?style=plastic)](https://packagist.org/packages/siberfx/backpack-leafletjs)
 <!--
 **siberfx/siberfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
