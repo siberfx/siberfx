@@ -73,14 +73,22 @@ Here are some ideas to get you started:
 
 <br />
 
-[![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=siberfx&count_private=true&show_icons=true&theme=dracula)](https://github.com/siberfx/github-readme-stats)
 
 
 <br />
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=siberfx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+ 
+ [![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=siberfx&count_private=true&show_icons=true&theme=dracula)](https://github.com/siberfx/github-readme-stats)
+
+ 
+ <img alig src="https://github-profile-trophy.vercel.app/?username=siberfx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+ 
+ <img src="https://raw.githubusercontent.com/siberfx/siberfx/output/github-contribution-grid-snake.svg" />
+
 </p>
+
+
 
 <br />
 
