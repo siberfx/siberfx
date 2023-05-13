@@ -74,6 +74,9 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+![Metrics](https://raw.githubusercontent.com/siberfx/siberfx/main/github-metrics.svg)
+
+
 [![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=siberfx&count_private=true&show_icons=true&theme=dracula)](https://github.com/siberfx/github-readme-stats)
 
 <br />
