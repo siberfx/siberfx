@@ -1,33 +1,20 @@
-name: wakatime-stats
-
+name: WakaTime
 on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "*/5 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  schedule:
-    - cron: '0 6 * * *'
-
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  waka-time:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: Find-NICK/metrics@master
         with:
-          COMMIT_BY_ME: "True"
-          COMMIT_MESSAGE: "Updated time metrics"
-          COMMIT_USERNAME: "siberfx"
-          COMMIT_EMAIL: "info@siberfx.com"
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SECTION_NAME: 'time'
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "True"
-          SHOW_UPDATED_DATE: "True"
-          SHOW_PROFILE_VIEWS: "True"
-          SHOW_EDITORS: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_COMMIT: "True"
-          SHOW_LOC_CHART: "False"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_SHORT_INFO: "True"
-          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          filename: src/wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
