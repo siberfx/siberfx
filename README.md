@@ -72,21 +72,22 @@ Here are some ideas to get you started:
 [Leetcode][leetcode]
 
 <br />
+
+[![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=siberfx&count_private=true&show_icons=true&theme=dracula)](https://github.com/siberfx/github-readme-stats)
+
+
 <br />
 
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=siberfx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-
-[![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=siberfx&count_private=true&show_icons=true&theme=dracula)](https://github.com/siberfx/github-readme-stats)
-
 <br />
 
 [website]: https://siberfx.com
 [email]: mailto:info@siberfx.com?subject=github-link
 [telegram]: https://t.me/siberfx
-[instagram]: https://instagram.com/siberfx
+[instagram]: https://instagram.com/martin.vitro
 [twitter]: https://twitter.com/siberfx
 [linkedin]: https://linkedin.com/in/siberfx
 [stackoverflow]: https://stackoverflow.com/users/8279182/g-selim
