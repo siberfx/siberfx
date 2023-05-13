@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[Site][website]
+[Site][website]<br>
 [LinkedIn][linkedin]<br>
 [Instagram][instagram]<br>
 [Twitter][twitter]<br>
