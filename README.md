@@ -74,9 +74,9 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-![Metrics](https://raw.githubusercontent.com/siberfx/siberfx/main/github-metrics.svg)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=siberfx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
 
 [![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=siberfx&count_private=true&show_icons=true&theme=dracula)](https://github.com/siberfx/github-readme-stats)
