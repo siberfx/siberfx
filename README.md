@@ -5,7 +5,10 @@
 
  * How to reach me: [info@siberfx.com](mailto:info@siberfx.com);
  * My website: [https://siberfx.com/](https://siberfx.com/)
+ * <img height="13" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Instagram.svg"> @siberfx
+ * <img height="13" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/LinkedIn.svg"> @siberfx
 
+ <br>
  <br>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=siberfx&style=plastic&label=views&color=orange" alt="siberfx" /> 
@@ -18,19 +21,42 @@
   
 <br>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/958072?s=40&v=4"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/878437?s=40&v=4"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://avatars.githubusercontent.com/u/5429470?s=40&v=4"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/VueJS-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Webpack-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/RabbitMQ-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Powershell-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Postman.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/PHP-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/PostgreSQL-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/MySQL-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Nginx.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/MongoDB.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Linux-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Laravel-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Symfony-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/JavaScript.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/HTML.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Gulp.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Github-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/GitLab-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Git.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Docker.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/CSS.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Cloudflare-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Bootstrap.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/AWS-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/SQLite.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/VIM-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/VIM-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/TypeScript.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/TailwindCSS-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Sass.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Sass.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Redis-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Photoshop.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/NodeJS-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Firebase-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Bash-Light.svg"></code>
 
 <br />
 <br />
