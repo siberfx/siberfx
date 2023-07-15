@@ -62,7 +62,7 @@
 
 <p align="center">
  
-  <picture>
+<picture>
   <source media="(prefers-color-scheme: light)" srcset="metrics/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="metrics/github-contribution-grid-snake.svg" />
 </picture>
@@ -73,10 +73,10 @@
 
  <br />
 
-### siberfx speed:
-
-<img  width="100%" src="metrics/coding_habits.svg" alt="siberfx's Most used lang" />
-
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siberfx/siberfx/main/metrics/coding_habits.svg" />
+  <img alt="coding-habits" src="https://raw.githubusercontent.com/siberfx/siberfx/main/metrics/coding_habits.svg" />
+</picture>
 </p>
 
 
