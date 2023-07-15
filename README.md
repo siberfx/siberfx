@@ -70,7 +70,9 @@
 
  <br />
 
+### siberfx speed:
 
+<img width="46%" src="metrics/pagespeed-detailed.svg"> <img  width="46%" src="metrics/coding_habits.svg" alt="siberfx's Most used lang" />
 </p>
 
 
