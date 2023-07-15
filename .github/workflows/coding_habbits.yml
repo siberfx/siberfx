@@ -18,7 +18,7 @@ jobs:
           #  - public_access (default scope)
           # The following additional scopes may be required:
           #  - read:org  (for organization related metrics)
-            - read:user (for user related data)
+          #  - read:user (for user related data)
           #  - repo      (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
