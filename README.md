@@ -63,8 +63,8 @@
 <p align="center">
  
   <picture>
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="metrics/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="metrics/github-contribution-grid-snake.svg" />
 </picture>
  
 <br />
