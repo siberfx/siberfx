@@ -62,13 +62,6 @@
 
 <p align="center">
  
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siberfx/siberfx/main/metrics/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/siberfx/siberfx/main/metrics/github-contribution-grid-snake.svg" />
-</picture>
- 
-<br />
-
   <img src="https://github-profile-trophy.vercel.app/?username=siberfx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 
  <br />
