@@ -50,7 +50,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/TypeScript.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/TailwindCSS-Light.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Sass.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Sass.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Redis-Light.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Photoshop.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/NodeJS-Light.svg"></code>
