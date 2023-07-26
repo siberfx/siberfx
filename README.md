@@ -81,5 +81,14 @@
 </picture>
 </p>
 
-<br />
+<br>
 
+<p align="center">
+ <a href="https://www.buymeacoffee.com/siberfx">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" />
+  <img alt="coding-habits" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" />
+</picture>
+</a>
+
+</p>
