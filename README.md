@@ -34,7 +34,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Linux-Light.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Laravel-Light.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Symfony-Light.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Lifewire.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Livewire.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/JavaScript.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/HTML.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Gulp.svg"></code>
