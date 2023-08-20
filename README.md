@@ -5,8 +5,9 @@
 
  * How to reach me: [info@siberfx.com](mailto:info@siberfx.com);
  * My website: [https://siberfx.com/](https://siberfx.com/)
- * <img height="13" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Instagram.svg"> @siberfx
- * <img height="13" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/LinkedIn.svg"> @siberfx
+ * [<img height="13" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Instagram.svg"> @siberfx](https://instagram.com/siberfx)
+ * [<img height="13" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/LinkedIn.svg"> @siberfx](https://www.linkedin.com/in/siberfx/)
+ * [<img height="13" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/StackOverflow.svg"> @g-selim](https://stackoverflow.com/users/8279182/g-selim)
 
  <br>
  <br>
