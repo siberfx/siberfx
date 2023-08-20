@@ -21,32 +21,43 @@
   
 <br>
 
-<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/VueJS-Light.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Webpack-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Atlassian-Jira.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Atlassian-Confluence.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Phpstorm.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/VSCode.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/VueJS.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Composer.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Webpack.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/RabbitMQ-Light.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Powershell-Light.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Postman.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/PHP-Light.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/PostgreSQL-Light.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/MySQL-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Apache.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Nginx.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/MongoDB.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Linux-Light.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Laravel-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Lumen.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Symfony-Light.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Livewire.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/JavaScript.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/SQLite.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/HTML.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Gulp.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Github-Light.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/GitLab-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Yarn.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Github.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Bitbucket.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Github-Actions.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/GitLab.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Git.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Docker.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/CSS.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Cloudflare-Light.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Bootstrap.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Google-Cloud.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/AWS-Light.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/SQLite.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/VIM-Light.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/TypeScript.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/TailwindCSS-Light.svg"></code>
@@ -56,6 +67,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/NodeJS-Light.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Firebase-Light.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Bash-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Swagger.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Elastic-Search.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Portainer.svg"></code>
 
 <br />
 <br />
