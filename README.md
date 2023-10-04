@@ -76,13 +76,6 @@
 <br />
 <br />
 
-<p align="center">
- 
-  <img src="https://github-profile-trophy.vercel.app/?username=siberfx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-
- <br />
-
-
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siberfx/siberfx/output/github-contribution-grid-snake.svg" />
