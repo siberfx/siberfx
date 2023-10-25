@@ -81,6 +81,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siberfx/siberfx/output/github-contribution-grid-snake.svg" />
   <img alt="coding-habits" src="https://raw.githubusercontent.com/siberfx/siberfx/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<!-- <img src="github-metrics.svg" style="width:100%;" alt="Metrics"> -->
+
  
  <br />
 
