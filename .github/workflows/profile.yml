@@ -1,0 +1,22 @@
+name: Profile
+on:
+  # Schedule updates (each day)
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+      - main
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Download Light SVG
+        run: curl https://siberfx.com/github-profile -o profile-light.svg
+      - name: Download Dark SVG
+        run: curl https://siberfx.com/github-profile?dark -o profile-dark.svg
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_author: ''
