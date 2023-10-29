@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="csrf-token" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SiberFx Creative Solutions :: SiberFx Creative Solutions</title>
+
+    <meta name="title" content="SiberFx Creative Solutions">
+    
+    <meta name="description" content="">
+    
+    <meta name="keywords" content="">
+    
+    <meta name="image" content="storage/logo/logo.svg">
+    
+    <meta property="og:url" content="https://siberfx.com/github-profile">
+    <meta property="og:title" content="SiberFx Creative Solutions">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="SiberFx Creative Solutions">
+    
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@siberfx">
+    <meta name="twitter:title" content="SiberFx Creative Solutions">
+    <meta name="twitter:creator" content="@siberfx">
+    <meta name="twitter:domain" content="siberfx.com">
+    
+
+    <meta name="robots" content="">
+    
+    <meta name="googlebot" content="">
+    
+    <meta name="rating" content="">
+    
+    <meta name="distribution" content="">
+    
+
+    <link rel="apple-touch-icon" sizes="180x180" href="https://siberfx.com/logo/favicon.png">
+<link rel="icon" type="image/png" sizes="20x20" href="https://siberfx.com/logo/favicon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://siberfx.com/logo/favicon.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://siberfx.com/logo/favicon.png">
+<meta name="msapplication-TileColor" content="#fa7070">
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link media="print" onload="this.onload=null;this.removeAttribute('media');" rel="preload" as="font" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,300;1,400,500,700&display=swap&family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap">
+<link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute('media');" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css">
+<link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute('media');" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+<link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute('media');" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.1/css/bootstrap.min.css">
+<link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute('media');" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/10.2.0/swiper-bundle.min.css">
+<link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute('media');" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css">
+<link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute('media');" href="https://siberfx.com/assets/css/style.min.css">
+        </head>
+<body>
+
+
+
+<div class="topbar-three d-md-flex d-none">
+    <div class="topbar-left">
+        <h6>Welcome Our IT Company, Please visit our <a href="https://siberfx.com/faq"> F.A.Q.</a></h6>
+    </div>
+    <div class="topbar-right">
+        <div class="social-list">
+            <ul class="social-style-three">
+                                                            <li>
+                            <a rel="nofollow" target="_blank" href="https://www.linkedin.com/in/siberfx/">
+                                <i class="fab fa-linkedin"></i>
+                            </a>
+                        </li>
+                    
+                                                            <li>
+                            <a rel="nofollow" target="_blank" href="https://github.com/siberfx">
+                                <i class="fab fa-github-alt"></i>
+                            </a>
+                        </li>
+                    
+                                                            <li>
+                            <a rel="nofollow" target="_blank" href="https://gitlab.com/siberfx">
+                                <i class="fab fa-gitlab"></i>
+                            </a>
+                        </li>
+                    
+                                                            <li>
+                            <a rel="nofollow" target="_blank" href="https://bitbucket.org/siberfx">
+                                <i class="fab fa-bitbucket"></i>
+                            </a>
+                        </li>
+                    
+                                                            <li>
+                            <a rel="nofollow" target="_blank" href="https://twitter.com/siberfx">
+                                <i class="fab fa-twitter"></i>
+                            </a>
+                        </li>
+                    
+                                                            <li>
+                            <a rel="nofollow" target="_blank" href="https://www.instagram.com/martin.vitro">
+                                <i class="fab fa-instagram"></i>
+                            </a>
+                        </li>
+                    
+                                                            <li>
+                            <a rel="nofollow" target="_blank" href="https://t.me/siberfx">
+                                <i class="fab fa-telegram-plane"></i>
+                            </a>
+                        </li>
+                    
+                            </ul>
+        </div>
+    </div>
+</div>
+<header class="header-area style-3 pl-110 pr-110">
+    <div class="container-fluid d-flex justify-content-between align-items-center px-0">
+        <div class="header-logo">
+            <a href="https://siberfx.com">
+                <img loading="lazy" alt="image" class="img-fluid" width="222" height="90" src="https://siberfx.com/storage/logo/logo.svg">
+            </a>
+        </div>
+        <div class="main-nav">
+            <div class="mobile-logo-area d-lg-none d-flex justify-content-between align-items-center">
+                <div class="mobile-logo-wrap">
+                    <a href="https://siberfx.com">
+                        <img loading="lazy" alt="image" class="img-fluid" src="https://siberfx.com/storage/logo/logo.svg">
+                    </a>
+                </div>
+                <div class="menu-close-btn">
+                    <i class="fa fa-times text-dark"></i>
+                </div>
+            </div>
+            <ul class="menu-list">
+                <li class="">
+                    <a href="https://siberfx.com" class="active">Home</a>
+                </li>
+                <li class="menu-item-has-children">
+                    <a href="#" class="drop-down">Services</a><i class="fa fa-chevron-down dropdown-icon"></i>
+                    <ul class="sub-menu">
+                                                    <li><a href="https://siberfx.com/service/web-development">Web Development</a></li>
+                                                    <li><a href="https://siberfx.com/service/web-applications">Web Applications</a></li>
+                                                    <li><a href="https://siberfx.com/service/mobile-applications">Mobile Applications</a></li>
+                                                    <li><a href="https://siberfx.com/service/cloud-backup">Cloud Backup</a></li>
+                                                    <li><a href="https://siberfx.com/service/seo-marketing">SEO &amp; Marketing</a></li>
+                                                    <li><a href="https://siberfx.com/service/ui-ux-services">UI/UX Services</a></li>
+                                                    <li><a href="https://siberfx.com/service/branding-services">Branding Services</a></li>
+                                                    <li><a href="https://siberfx.com/service/content-writing">Content Writing</a></li>
+                                                    <li><a href="https://siberfx.com/service/video-editing">Video Editing</a></li>
+                                            </ul>
+                </li>
+                <li class="menu-item-has-children">
+                    <a href="#" class="drop-down">Articles</a><i class="fa fa-chevron-down dropdown-icon"></i>
+                    <ul class="sub-menu">
+
+                                                    <li><a href="https://siberfx.com/article/php">Php</a></li>
+                                                    <li><a href="https://siberfx.com/article/vuejs">VueJs</a></li>
+                                                    <li><a href="https://siberfx.com/article/linux">Linux</a></li>
+                                                    <li><a href="https://siberfx.com/article/docker">Docker</a></li>
+                                                    <li><a href="https://siberfx.com/article/devops">DevOps</a></li>
+                                                    <li><a href="https://siberfx.com/article/general">General</a></li>
+                                                    <li><a href="https://siberfx.com/article/git-vcs">Git &amp; Vcs</a></li>
+                                                    <li><a href="https://siberfx.com/article/chatgpt">ChatGPT</a></li>
+                                            </ul>
+                </li>
+                <li class="menu-item-has-children">
+                    <a href="#" class="drop-down">Company</a><i class="fa fa-chevron-down dropdown-icon"></i>
+                    <ul class="sub-menu">
+
+                                                    <li><a href="https://siberfx.com/page/about-us">About Us</a></li>
+                                            </ul>
+                </li>
+
+                <li>
+                    <a href="https://siberfx.com/work">Works</a>
+                </li>
+                                                <li><a href="https://siberfx.com/contact">Contact</a></li>
+            </ul>
+
+            <div class="d-flex justify-content-start align-items-center flex-row d-lg-none d-block mt-5">
+                <a href="https://siberfx.com/make-quote" class="eg-btn btn--md btn--primary-three d-flex d-lg-none">Make Quote</a>
+            </div>
+        </div>
+        <div class="nav-right header-five-right d-flex jsutify-content-end align-items-center gap-sm-5 gap-4">
+            <div class="header-icons">
+                <a href="#" class="search-btn"><i class="fa fa-search"></i></a>
+
+            </div>
+            <a href="https://siberfx.com/make-quote" class="eg-btn btn--md btn--primary-three d-xl-flex d-none">Make Quote</a>
+            <div class="header-phone">
+                <div class="icon">
+                    <i class="fab fa-telegram-plane"></i>
+                </div>
+                <div class="telegram">
+                    <span>Telegram</span>
+                    <h5><a target="_blank" rel="nofollow" href="https://t.me/siberfx">@siberfx</a></h5>
+                </div>
+            </div>
+            <div class="mobile-menu-btn d-lg-none d-block">
+                <i class="fa fa-list text-dark"></i>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+<div class="mobile-search">
+    <div class="container">
+        <div class="row d-flex justify-content-center gy-4">
+            <div class="col-md-10">
+                <label>Get StartWhat are you looking forced</label>
+                <input type="text" placeholder="Search Products, Category, Services">
+            </div>
+            <div class="col-2 d-flex justify-content-end align-items-end gap-2">
+                <div class="search-cross-btn">
+                    <i class="fa fa-search"></i>
+                </div>
+                <div class="search-cross-btn">
+                    <i class="fa fa-times"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="error-section">
+        <div class="error-image">
+            <img src="https://siberfx.com/assets/images/bg/error-bg.png" alt="">
+        </div>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-6">
+                    <div class="error-content">
+                        <h3>404 Page Not Found</h3>
+                        <h1>404</h1>
+                        <div class="explore-button style-two text-center pt-120">
+                            <a href="javascript:history.back()">Go Back </a> or
+
+                            <a href="https://siberfx.com">Back to Home</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<footer class="footer-sibling-three">
+    <div class="container-fluid">
+        <div class="row justify-content-center align-items-center">
+            <div class="col-xl-4 order-sm-1 order-2">
+                <div class="footer-info">
+                    <div class="footer-logo">
+                        <img loading="lazy" src="https://siberfx.com/logo/logo.svg" alt="image">
+                    </div>
+                    <span><img loading="lazy" src="https://siberfx.com/assets/images/icons/title-vector3.svg" alt="image"></span>
+                    <p>Siberfx Creative Solutions<br>Let's code together</p>
+                    <ul class="footer-social sibling-two">
+                                                    <li>
+                                <a rel="nofollow" target="_blank" href="https://www.linkedin.com/in/siberfx/">
+                                    <i class="fab fa-linkedin"></i>
+                                </a>
+                            </li>
+                                                    <li>
+                                <a rel="nofollow" target="_blank" href="https://github.com/siberfx">
+                                    <i class="fab fa-github-alt"></i>
+                                </a>
+                            </li>
+                                                    <li>
+                                <a rel="nofollow" target="_blank" href="https://gitlab.com/siberfx">
+                                    <i class="fab fa-gitlab"></i>
+                                </a>
+                            </li>
+                                                    <li>
+                                <a rel="nofollow" target="_blank" href="https://bitbucket.org/siberfx">
+                                    <i class="fab fa-bitbucket"></i>
+                                </a>
+                            </li>
+                                                    <li>
+                                <a rel="nofollow" target="_blank" href="https://twitter.com/siberfx">
+                                    <i class="fab fa-twitter"></i>
+                                </a>
+                            </li>
+                                                    <li>
+                                <a rel="nofollow" target="_blank" href="https://www.instagram.com/martin.vitro">
+                                    <i class="fab fa-instagram"></i>
+                                </a>
+                            </li>
+                                                    <li>
+                                <a rel="nofollow" target="_blank" href="https://t.me/siberfx">
+                                    <i class="fab fa-telegram-plane"></i>
+                                </a>
+                            </li>
+                        
+
+
+
+
+
+
+
+
+
+
+
+                    </ul>
+                </div>
+            </div>
+            <div class="col-xl-8 pt-90 order-sm-2 order-1">
+                <div class="row mb-70 gy-5">
+                    <div class="col-lg-4 col-md-4 col-sm-6">
+                        <div class="footer-list-area">
+                            <h3 class="footer-list-title">Services</h3>
+                            <ul class="footer-list sibling-three">
+                                                                    <li>
+                                        <a href="https://siberfx.com/service/web-development">Web Development</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://siberfx.com/service/web-applications">Web Applications</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://siberfx.com/service/mobile-applications">Mobile Applications</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://siberfx.com/service/cloud-backup">Cloud Backup</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://siberfx.com/service/seo-marketing">SEO &amp; Marketing</a>
+                                    </li>
+                                
+
+
+
+
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-5 col-md-5 col-sm-6">
+                        <div class="footer-list-area">
+                            <h3 class="footer-list-title">Contact Details</h3>
+                            <ul class="footer-address-list sibling-three">
+                                <li>
+                                    <div class="icon">
+                                        <i class="fa fa-envelope"></i>
+                                    </div>
+                                    <div class="address">
+                                        <a href="/cdn-cgi/l/email-protection#41282f272e01322823243327396f222e2c">
+                                            <span class="__cf_email__" data-cfemail="4b22252d240b3822292e392d3365282426">[email&#160;protected]</span>
+                                        </a>
+                                    </div>
+                                </li>
+                                                                <li>
+                                    <div class="icon">
+                                        <i class="fab fa-telegram-plane"></i>
+                                    </div>
+                                    <div class="address">
+                                        <a target="_blank" rel="nofollow" href="https://t.me/siberfx">siberfx</a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="icon">
+                                        <i class="fa fa-map-pin"></i>
+                                    </div>
+                                    <div class="address">
+                                        <a href="https://siberfx.com/contact">Konyaaltı, Antalya, Turkey</a>
+                                    </div>
+                                </li>
+                            </ul>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6">
+                        <div class="footer-list-area">
+                            <h3 class="footer-list-title">Pages</h3>
+                            <ul class="footer-list sibling-three">
+                                <li>
+                                    <a href="https://siberfx.com/service">
+                                        Services</a>
+                                </li>
+                                <li>
+                                    <a href="https://siberfx.com/work">
+                                        Works</a>
+                                </li>
+                                                                    <li>
+                                        <a href="https://siberfx.com/page/about-us">
+                                            About Us</a>
+                                    </li>
+                                                                <li>
+                                    <a href="https://siberfx.com/contact">
+                                        Contact</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+        <div class="row copyright-area">
+            <div class="col-lg-12 text-center">
+                <p>
+                    © 2012-2023 SiberFx | Design by <a class="linear-text-three" href="https://siberfx.com" target="_blank" rel="nofollow">Selim Görmüş</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.0/jquery.min.js" async></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/js/bootstrap.bundle.min.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/10.2.0/swiper-bundle.min.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/is-in-viewport/3.0.4/isInViewport.min.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/smooth-scroll/16.1.3/smooth-scroll.min.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/5.0.0/imagesloaded.pkgd.min.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.Marquee/1.6.0/jquery.marquee.min.js" defer></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" defer></script>
+<script>window.Laravel = {csrfToken: ''}</script>
+
+
+            <script>
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(90655419, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+    });
+</script>
+<noscript><div><img loading="lazy" src="https://mc.yandex.ru/watch/90655419" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+    <script src="https://siberfx.com/assets/js/main.js" defer></script>
+</body>
+</html>
