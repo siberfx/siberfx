@@ -12,7 +12,7 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: Download Light SVG
         run: curl https://siberfx.com/github-profile -o profile-light.svg
       - name: Download Dark SVG
