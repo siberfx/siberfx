@@ -17,6 +17,6 @@ jobs:
         run: curl https://siberfx.com/github-profile -o profile-light.svg
       - name: Download Dark SVG
         run: curl https://siberfx.com/github-profile?dark -o profile-dark.svg
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_author: ''
