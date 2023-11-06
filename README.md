@@ -82,25 +82,10 @@
   <img alt="coding-habits" src="https://raw.githubusercontent.com/siberfx/siberfx/output/github-contribution-grid-snake.svg" />
 </picture>
 
+<br />
+<img src="https://raw.githubusercontent.com/siberfx/siberfx/main/profile-light.svg" style="width:100%;" alt="Test">
+
+
+
 <!-- <img src="github-metrics.svg" style="width:100%;" alt="Metrics"> -->
 
- 
- <br />
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siberfx/siberfx/main/metrics/coding_habits.svg" />
-  <img alt="coding-habits" src="https://raw.githubusercontent.com/siberfx/siberfx/main/metrics/coding_habits.svg" />
-</picture>
-</p>
-
-<br>
-
-<p align="center">
- <a href="https://www.buymeacoffee.com/siberfx">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" />
-  <img alt="coding-habits" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" />
-</picture>
-</a>
-
-</p>
