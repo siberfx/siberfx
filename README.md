@@ -83,7 +83,7 @@
 </picture>
 
 <br />
-<img src="https://raw.githubusercontent.com/siberfx/siberfx/main/profile-light.svg" style="width:100%;" alt="Test">
+<img src="https://raw.githubusercontent.com/siberfx/siberfx/main/profile-light.svg" style="width:100%;" alt="Profile">
 
 
 
