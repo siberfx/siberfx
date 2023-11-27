@@ -187,42 +187,42 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 10.859169898588057%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 10.80848543203533%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">14%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Hack</span>
-                                <div class="bar" style="width: 6.1575845108488325%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.128844387146901%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">PHP</span>
-                                <div class="bar" style="width: 3.87402437884244%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.855942622972738%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 3.479948117318478%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.4637056866718785%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 2.009093439333907%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 1.9997161268709662%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Blade</span>
-                                <div class="bar" style="width: 1.7399482677653588%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.7318271728193724%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Vue</span>
-                                <div class="bar" style="width: 1.7252130703951702%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.717160751020911%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TSX</span>
-                                <div class="bar" style="width: 1.1971789060577436%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.191591151672429%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
