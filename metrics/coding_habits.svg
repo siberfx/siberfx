@@ -187,18 +187,18 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">PHP</span>
-                                <div class="bar" style="width: 27.29808554622903%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">34%</span>
+                                <div class="bar" style="width: 26.355038216932144%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">33%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Hack</span>
-                                <div class="bar" style="width: 20.528006804986006%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">26%</span>
+                                <div class="bar" style="width: 21.66013186300251%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">27%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Blade</span>
-                                <div class="bar" style="width: 7.541071523353192%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 7.978761888091487%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10%</span>
                             </div>
                         </div>
                     </section>
