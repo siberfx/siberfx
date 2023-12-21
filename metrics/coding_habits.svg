@@ -186,19 +186,19 @@
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">Hack</span>
-                                <div class="bar" style="width: 32.09720384519544%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="name">PHP</span>
+                                <div class="bar" style="width: 31.949460260605456%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">40%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">PHP</span>
-                                <div class="bar" style="width: 30.444920979759726%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">38%</span>
+                                <span class="name">Hack</span>
+                                <div class="bar" style="width: 31.56834820216531%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">39%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Blade</span>
-                                <div class="bar" style="width: 15.076072116717615%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">19%</span>
+                                <div class="bar" style="width: 13.723590556981842%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">17%</span>
                             </div>
                         </div>
                     </section>
