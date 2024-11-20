@@ -13,8 +13,8 @@
  <br>
 
 
- <p align="left"> <img src="https://siberfx.com/svg/counter-image" alt="siberfx" /> </p>
- <p align="left"> <img alt="Stars" src="https://img.shields.io/github/stars/siberfx/siberfx?style=plastic&labelColor=343b41"/>
+ <p align="left"> <img src="https://siberfx.com/svg/counter-image" alt="siberfx" />
+ <img alt="Stars" src="https://img.shields.io/github/stars/siberfx/siberfx?style=plastic&labelColor=343b41"/>
  <img alt="Forks" src="https://img.shields.io/github/forks/siberfx/siberfx?style=plastic&labelColor=343b41"/>
  </p>
  </br>
