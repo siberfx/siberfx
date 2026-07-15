@@ -81,3 +81,7 @@
   <img alt="coding-habits" src="https://raw.githubusercontent.com/siberfx/siberfx/output/github-contribution-grid-snake.svg" />
 </picture>
 
+<br />
+
+<img alt="coding habits" width="100%" src="https://raw.githubusercontent.com/siberfx/siberfx/main/metrics/coding_habits.svg" />
+
