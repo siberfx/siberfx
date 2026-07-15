@@ -29,11 +29,20 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: ${{ github.repository_owner }}
           filename: metrics/coding_habits.svg
-          base: ""
+          # base header shows lifetime stats (commits, PRs, issues, stars).
+          # base_indepth aggregates commits across ALL repos/years for an
+          # accurate all-time total (costs extra API calls; needs repo scope).
+          base: header
+          base_indepth: yes
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_facts: no
           plugin_habits_from: 200
+          # Isometric contribution calendar (last 12 months) with streak +
+          # per-day average. Its total is last-year; lifetime total lives in
+          # the base_indepth header above.
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           config_timezone: Europe/Istanbul
           # Let git-auto-commit-action handle publishing instead of the action.
           output_action: none
