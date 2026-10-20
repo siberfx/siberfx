@@ -1,0 +1,29 @@
+name: latest blog posts
+
+on:
+  # run automatically every 6 hours
+  schedule:
+    - cron: "0 */6 * * *"
+
+  # allows to manually run the job at any time
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # pulls the latest articles from the feed into the BLOG-POST-LIST section of README.md
+      - name: update README with latest articles
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://siberfx.com/feed"
+          max_post_count: 5
+          template: "* [$title]($url) <sub>— $date</sub> $newline"
+          date_format: "mmm d, yyyy"
+          commit_message: "Update README with latest blog posts"
