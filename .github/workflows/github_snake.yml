@@ -1,21 +1,8 @@
-name: generate animation
+name: generate snake animation
 
 on:
-  # run automatically every 6 hours
-  schedule:
-    - cron: "0 */12 * * *" 
-  
-  # allows to manually run the job at any time
+  # disabled: replaced by github_bomberman.yml, kept for manual runs only
   workflow_dispatch:
-  
-  # run on every push on the master branch
-  push:
-    branches:
-    - main
-    - release
-    - master
-    
-  
 
 jobs:
   generate:
