@@ -94,12 +94,14 @@
 
 **Latest Articles:**
 
-<!-- BLOG-POST-LIST:START -->* [Samsa: Kafka-Inspired Event Streaming for Laravel](https://siberfx.com/article/laravel/samsa-kafka-inspired-event-streaming-for-laravel) <sub>— Oct 18, 2026</sub> 
-* [Fine‑Tuning Gemini with LoRA: Building Domain‑Specific Chatbots on a Budget](https://siberfx.com/article/ai/finetuning-gemini-with-lora-building-domainspecific-chatbots-on-a-budget) <sub>— Oct 18, 2026</sub> 
-* [Building Flexible State Machines with PHP 8.6’s Match Fallthrough](https://siberfx.com/article/php/building-flexible-state-machines-with-php-86s-match-fallthrough) <sub>— Oct 18, 2026</sub> 
-* [Harnessing PHP 8.5’s Named Arguments with Defaults for Cleaner API Design](https://siberfx.com/article/php/harnessing-php-85s-named-arguments-with-defaults-for-cleaner-api-design) <sub>— Oct 18, 2026</sub> 
-* [Architecting for Enterprise: A Mindset Shift from Code to System](https://siberfx.com/article/linux/architecting-for-enterprise-a-mindset-shift-from-code-to-system) <sub>— Oct 17, 2026</sub> 
+<ul>
+<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/laravel/samsa-kafka-inspired-event-streaming-for-laravel">Samsa: Kafka-Inspired Event Streaming for Laravel</a> <sub>— Oct 18, 2026</sub></li>
+<li><a href="https://siberfx.com/article/ai/finetuning-gemini-with-lora-building-domainspecific-chatbots-on-a-budget">Fine‑Tuning Gemini with LoRA: Building Domain‑Specific Chatbots on a Budget</a> <sub>— Oct 18, 2026</sub></li>
+<li><a href="https://siberfx.com/article/php/building-flexible-state-machines-with-php-86s-match-fallthrough">Building Flexible State Machines with PHP 8.6’s Match Fallthrough</a> <sub>— Oct 18, 2026</sub></li>
+<li><a href="https://siberfx.com/article/php/harnessing-php-85s-named-arguments-with-defaults-for-cleaner-api-design">Harnessing PHP 8.5’s Named Arguments with Defaults for Cleaner API Design</a> <sub>— Oct 18, 2026</sub></li>
+<li><a href="https://siberfx.com/article/linux/architecting-for-enterprise-a-mindset-shift-from-code-to-system">Architecting for Enterprise: A Mindset Shift from Code to System</a> <sub>— Oct 17, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
+</ul>
 
 ➡️ [More articles](https://siberfx.com/)
 

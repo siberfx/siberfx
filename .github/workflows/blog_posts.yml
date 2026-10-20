@@ -24,6 +24,6 @@ jobs:
         with:
           feed_list: "https://siberfx.com/feed"
           max_post_count: 5
-          template: "* [$title]($url) <sub>— $date</sub> $newline"
+          template: "<li><a href=\"$url\">$title</a> <sub>— $date</sub></li>$newline"
           date_format: "mmm d, yyyy"
           commit_message: "Update README with latest blog posts"
