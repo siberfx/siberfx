@@ -7,14 +7,16 @@
  * My website: [https://siberfx.com/](https://siberfx.com/)
  * [<img height="13" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Instagram.svg"> @siberfx](https://instagram.com/siberfx)
  * [<img height="13" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/LinkedIn.svg"> @siberfx](https://www.linkedin.com/in/siberfx/)
- * [<img height="13" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/StackOverflow.svg"> @g-selim](https://stackoverflow.com/users/8279182/g-selim)
+ * [<img height="13" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/X.svg"> @siberfx](https://x.com/siberfx)
+ * [<img height="13" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Telegram.svg"> @siberfx](https://t.me/siberfx)
 
  <br>
  <br>
 
 
  <p align="left"> <img src="https://siberfx.com/svg/counter-image" alt="siberfx" />
- <img alt="Stars" src="https://img.shields.io/github/stars/siberfx/siberfx?style=plastic&labelColor=343b41"/>
+ <img alt="Total Stars" src="https://img.shields.io/github/stars/siberfx?affiliations=OWNER&style=plastic&labelColor=343b41&label=Total%20Stars"/>
+ <img alt="Followers" src="https://img.shields.io/github/followers/siberfx?style=plastic&labelColor=343b41"/>
  </p>
  </br>
  
@@ -71,7 +73,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Swagger.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Elastic-Search.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Portainer.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/StackOverflow.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/AlpineJS-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Vite-Light.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Kafka.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Telegram.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Gemini.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Claude.svg"></code>
 
 <br />
 <br />
