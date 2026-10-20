@@ -19,7 +19,7 @@
  <img alt="Followers" src="https://img.shields.io/github/followers/siberfx?style=plastic&labelColor=343b41"/>
  </p>
  </br>
- 
+
   **Languages and Tools:** 
   
 <br>
@@ -88,4 +88,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siberfx/siberfx/output/bomberman-contribution-graph.svg" />
   <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/siberfx/siberfx/output/bomberman-contribution-graph.svg" />
 </picture>
+
+<br />
+<br />
+
+**Latest Articles:**
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [More articles](https://siberfx.com/)
 
