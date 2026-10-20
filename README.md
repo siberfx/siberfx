@@ -95,11 +95,11 @@
 **Latest Articles:**
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/laravel/samsa-kafka-inspired-event-streaming-for-laravel">Samsa: Kafka-Inspired Event Streaming for Laravel</a> <sub>— Oct 18, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/ai/deploying-deepseeks-llama3based-model-on-raspberry-pi-4-for-realtime-voice-assistant">Deploying DeepSeek’s Llama‑3‑Based Model on Raspberry Pi 4 for Real‑Time Voice Assistant</a> <sub>— Oct 20, 2026</sub></li>
+<li><a href="https://siberfx.com/article/laravel/resolving-dependencies-in-laravel-queue-jobs-with-middleware-and-the-service-container">Resolving Dependencies in Laravel Queue Jobs with Middleware and the Service Container</a> <sub>— Oct 20, 2026</sub></li>
+<li><a href="https://siberfx.com/article/react/debouncing-heavy-data-loads-with-reacts-usetransition">Debouncing Heavy Data Loads with React’s useTransition</a> <sub>— Oct 20, 2026</sub></li>
+<li><a href="https://siberfx.com/article/laravel/samsa-kafka-inspired-event-streaming-for-laravel">Samsa: Kafka-Inspired Event Streaming for Laravel</a> <sub>— Oct 18, 2026</sub></li>
 <li><a href="https://siberfx.com/article/ai/finetuning-gemini-with-lora-building-domainspecific-chatbots-on-a-budget">Fine‑Tuning Gemini with LoRA: Building Domain‑Specific Chatbots on a Budget</a> <sub>— Oct 18, 2026</sub></li>
-<li><a href="https://siberfx.com/article/php/building-flexible-state-machines-with-php-86s-match-fallthrough">Building Flexible State Machines with PHP 8.6’s Match Fallthrough</a> <sub>— Oct 18, 2026</sub></li>
-<li><a href="https://siberfx.com/article/php/harnessing-php-85s-named-arguments-with-defaults-for-cleaner-api-design">Harnessing PHP 8.5’s Named Arguments with Defaults for Cleaner API Design</a> <sub>— Oct 18, 2026</sub></li>
-<li><a href="https://siberfx.com/article/linux/architecting-for-enterprise-a-mindset-shift-from-code-to-system">Architecting for Enterprise: A Mindset Shift from Code to System</a> <sub>— Oct 17, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
