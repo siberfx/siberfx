@@ -95,11 +95,11 @@
 **Latest Articles:**
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/linux/proactive-memory-management-in-containers-with-systemd-oomd">Proactive Memory Management in Containers with systemd-oomd</a> <sub>— Oct 25, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/react/finegrained-rerender-control-with-usesyncexternalstore-and-redux">Fine‑Grained Re‑Render Control with useSyncExternalStore and Redux</a> <sub>— Oct 26, 2026</sub></li>
+<li><a href="https://siberfx.com/article/laravel/injecting-custom-retry-logic-into-laravel-queue-jobs-via-the-service-container">Injecting Custom Retry Logic into Laravel Queue Jobs via the Service Container</a> <sub>— Oct 26, 2026</sub></li>
+<li><a href="https://siberfx.com/article/linux/proactive-memory-management-in-containers-with-systemd-oomd">Proactive Memory Management in Containers with systemd-oomd</a> <sub>— Oct 25, 2026</sub></li>
 <li><a href="https://siberfx.com/article/kubernetes/gitops-with-argocd-automating-helm-chart-deployments">GitOps with ArgoCD: Automating Helm Chart Deployments</a> <sub>— Oct 25, 2026</sub></li>
 <li><a href="https://siberfx.com/article/php/exploiting-phps-default-argument-vulnerability-a-deep-dive-into-cve-2024-xxxx">Exploiting PHP’s Default Argument Vulnerability: A Deep Dive into CVE-2024-XXXX</a> <sub>— Oct 25, 2026</sub></li>
-<li><a href="https://siberfx.com/article/kubernetes/choosing-the-right-base-image-for-your-microservices-alpine-vs-debian-vs-ubuntu">Choosing the Right Base Image for Your Microservices: Alpine vs Debian vs Ubuntu</a> <sub>— Oct 24, 2026</sub></li>
-<li><a href="https://siberfx.com/article/php/first-class-callables-in-php-86-a-practical-guide-for-mid-level-developers">First-Class Callables in PHP 8.6: A Practical Guide for Mid-Level Developers</a> <sub>— Oct 24, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
