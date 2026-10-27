@@ -95,11 +95,11 @@
 **Latest Articles:**
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/react/finegrained-rerender-control-with-usesyncexternalstore-and-redux">Fine‑Grained Re‑Render Control with useSyncExternalStore and Redux</a> <sub>— Oct 26, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/php/unpacking-cve-2024-xxxx-symfony-64s-unserialize-deserialization-flaw-and-how-to-patch-it">Unpacking CVE-2024-XXXX: Symfony 6.4’s Unserialize Deserialization Flaw and How to Patch It</a> <sub>— Oct 27, 2026</sub></li>
+<li><a href="https://siberfx.com/article/react/finegrained-rerender-control-with-usesyncexternalstore-and-redux">Fine‑Grained Re‑Render Control with useSyncExternalStore and Redux</a> <sub>— Oct 26, 2026</sub></li>
 <li><a href="https://siberfx.com/article/laravel/injecting-custom-retry-logic-into-laravel-queue-jobs-via-the-service-container">Injecting Custom Retry Logic into Laravel Queue Jobs via the Service Container</a> <sub>— Oct 26, 2026</sub></li>
 <li><a href="https://siberfx.com/article/linux/proactive-memory-management-in-containers-with-systemd-oomd">Proactive Memory Management in Containers with systemd-oomd</a> <sub>— Oct 25, 2026</sub></li>
 <li><a href="https://siberfx.com/article/kubernetes/gitops-with-argocd-automating-helm-chart-deployments">GitOps with ArgoCD: Automating Helm Chart Deployments</a> <sub>— Oct 25, 2026</sub></li>
-<li><a href="https://siberfx.com/article/php/exploiting-phps-default-argument-vulnerability-a-deep-dive-into-cve-2024-xxxx">Exploiting PHP’s Default Argument Vulnerability: A Deep Dive into CVE-2024-XXXX</a> <sub>— Oct 25, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
