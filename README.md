@@ -95,11 +95,11 @@
 **Latest Articles:**
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/security/php-83-cve-2026-9876-unserialize-exploit-and-how-to-harden-your-applications">PHP 8.3 CVE-2026-9876: Unserialize Exploit and How to Harden Your Applications</a> <sub>— Oct 28, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/php/immutable-dtos-in-microservices-leveraging-php-85s-readonly-property-promotion">Immutable DTOs in Microservices: Leveraging PHP 8.5’s Readonly Property Promotion</a> <sub>— Oct 29, 2026</sub></li>
+<li><a href="https://siberfx.com/article/kubernetes/github-actions-for-kubernetes-cicd-helm-charts-kustomize-and-canary-deployments">GitHub Actions for Kubernetes CI/CD: Helm Charts, Kustomize, and Canary Deployments</a> <sub>— Oct 29, 2026</sub></li>
+<li><a href="https://siberfx.com/article/security/php-83-cve-2026-9876-unserialize-exploit-and-how-to-harden-your-applications">PHP 8.3 CVE-2026-9876: Unserialize Exploit and How to Harden Your Applications</a> <sub>— Oct 28, 2026</sub></li>
 <li><a href="https://siberfx.com/article/security/react-183s-unsafe-eval-cve-2026-12345-why-it-matters-and-how-to-patch-your-apps">React 18.3’s Unsafe Eval CVE-2026-12345: Why It Matters and How to Patch Your Apps</a> <sub>— Oct 28, 2026</sub></li>
 <li><a href="https://siberfx.com/article/php/zeroday-in-php-83-the-hidden-deserialization-bug-in-unserialize-and-how-to-safeguard-your-apps">Zero‑Day in PHP 8.3: The Hidden Deserialization Bug in `unserialize&lpar;&rpar;` and How to Safeguard Your Apps</a> <sub>— Oct 28, 2026</sub></li>
-<li><a href="https://siberfx.com/article/ai/rapid-prototyping-conversational-agents-with-groqs-llama-31-and-langchain">Rapid Prototyping Conversational Agents with Groq’s Llama 3.1 and LangChain</a> <sub>— Oct 28, 2026</sub></li>
-<li><a href="https://siberfx.com/article/linux/on-demand-service-launch-with-systemd-socket-activation">On-Demand Service Launch with systemd Socket Activation</a> <sub>— Oct 28, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
