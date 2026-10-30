@@ -95,11 +95,11 @@
 **Latest Articles:**
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/security/php-85s-composer-autoload-exploit-cve20267654-why-your-dependencies-are-a-backdoor">PHP 8.5’s Composer Autoload Exploit &lpar;CVE‑2026‑7654&rpar;: Why Your Dependencies Are a Backdoor</a> <sub>— Oct 29, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/security/when-php-86s-regex-engine-turns-into-a-dos-weapon-cve-2026-8765-explained">When PHP 8.6’s Regex Engine Turns into a DoS Weapon: CVE-2026-8765 Explained</a> <sub>— Oct 29, 2026</sub></li>
+<li><a href="https://siberfx.com/article/security/php-85s-composer-autoload-exploit-cve20267654-why-your-dependencies-are-a-backdoor">PHP 8.5’s Composer Autoload Exploit &lpar;CVE‑2026‑7654&rpar;: Why Your Dependencies Are a Backdoor</a> <sub>— Oct 29, 2026</sub></li>
 <li><a href="https://siberfx.com/article/security/exploiting-php-84s-json-decode-how-cve-2026-54321-turns-data-parsing-into-remote-code-execution">Exploiting PHP 8.4’s json_decode: How CVE-2026-54321 Turns Data Parsing into Remote Code Execution</a> <sub>— Oct 29, 2026</sub></li>
 <li><a href="https://siberfx.com/article/php/immutable-dtos-in-microservices-leveraging-php-85s-readonly-property-promotion">Immutable DTOs in Microservices: Leveraging PHP 8.5’s Readonly Property Promotion</a> <sub>— Oct 29, 2026</sub></li>
 <li><a href="https://siberfx.com/article/kubernetes/github-actions-for-kubernetes-cicd-helm-charts-kustomize-and-canary-deployments">GitHub Actions for Kubernetes CI/CD: Helm Charts, Kustomize, and Canary Deployments</a> <sub>— Oct 29, 2026</sub></li>
-<li><a href="https://siberfx.com/article/security/php-83-cve-2026-9876-unserialize-exploit-and-how-to-harden-your-applications">PHP 8.3 CVE-2026-9876: Unserialize Exploit and How to Harden Your Applications</a> <sub>— Oct 28, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
