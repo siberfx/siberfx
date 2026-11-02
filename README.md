@@ -95,11 +95,11 @@
 **Latest Articles:**
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/security/react-184-useeffect-memory-leak-cve20264321-deep-dive">React 18.4 useEffect Memory Leak: CVE‑2026‑4321 Deep Dive</a> <sub>— Oct 31, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/php/typed-properties-with-union-types-in-php-85-enhancing-runtime-safety">Typed Properties with Union Types in PHP 8.5: Enhancing Runtime Safety</a> <sub>— Nov 1, 2026</sub></li>
+<li><a href="https://siberfx.com/article/linux/automating-dynamic-network-interface-configuration-with-systemdudev-rules">Automating Dynamic Network Interface Configuration with systemd‑udev Rules</a> <sub>— Nov 1, 2026</sub></li>
+<li><a href="https://siberfx.com/article/security/react-184-useeffect-memory-leak-cve20264321-deep-dive">React 18.4 useEffect Memory Leak: CVE‑2026‑4321 Deep Dive</a> <sub>— Oct 31, 2026</sub></li>
 <li><a href="https://siberfx.com/article/laravel/graceful-shutdown-in-laravel-queues-using-middleware-to-handle-sigterm">Graceful Shutdown in Laravel Queues: Using Middleware to Handle SIGTERM</a> <sub>— Oct 31, 2026</sub></li>
 <li><a href="https://siberfx.com/article/security/php-87-session-fixation-exploit-cve202611223-how-to-detect-and-mitigate-the-silent-hijack">PHP 8.5 Session Fixation Exploit &lpar;CVE‑2026‑11223&rpar;: How to Detect and Mitigate the Silent Hijack</a> <sub>— Oct 30, 2026</sub></li>
-<li><a href="https://siberfx.com/article/security/when-php-86s-regex-engine-turns-into-a-dos-weapon-cve-2026-8765-explained">When PHP 8.6’s Regex Engine Turns into a DoS Weapon: CVE-2026-8765 Explained</a> <sub>— Oct 29, 2026</sub></li>
-<li><a href="https://siberfx.com/article/security/php-85s-composer-autoload-exploit-cve20267654-why-your-dependencies-are-a-backdoor">PHP 8.5’s Composer Autoload Exploit &lpar;CVE‑2026‑7654&rpar;: Why Your Dependencies Are a Backdoor</a> <sub>— Oct 29, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
