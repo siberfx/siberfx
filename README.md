@@ -95,11 +95,11 @@
 **Latest Articles:**
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/laravel/injecting-custom-retry-delays-with-laravel-service-container-middleware">Injecting Custom Retry Delays with Laravel Service Container Middleware</a> <sub>— Nov 3, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/ai/scaling-groqs-llama-31-conversational-agents-with-kubernetes-a-practical-guide">Scaling Groq’s Llama 3.1 Conversational Agents with Kubernetes: A Practical Guide</a> <sub>— Nov 3, 2026</sub></li>
+<li><a href="https://siberfx.com/article/laravel/injecting-custom-retry-delays-with-laravel-service-container-middleware">Injecting Custom Retry Delays with Laravel Service Container Middleware</a> <sub>— Nov 3, 2026</sub></li>
 <li><a href="https://siberfx.com/article/php/typed-properties-with-union-types-in-php-85-enhancing-runtime-safety">Typed Properties with Union Types in PHP 8.5: Enhancing Runtime Safety</a> <sub>— Nov 1, 2026</sub></li>
 <li><a href="https://siberfx.com/article/linux/automating-dynamic-network-interface-configuration-with-systemdudev-rules">Automating Dynamic Network Interface Configuration with systemd‑udev Rules</a> <sub>— Nov 1, 2026</sub></li>
 <li><a href="https://siberfx.com/article/security/react-184-useeffect-memory-leak-cve20264321-deep-dive">React 18.4 useEffect Memory Leak: CVE‑2026‑4321 Deep Dive</a> <sub>— Oct 31, 2026</sub></li>
-<li><a href="https://siberfx.com/article/laravel/graceful-shutdown-in-laravel-queues-using-middleware-to-handle-sigterm">Graceful Shutdown in Laravel Queues: Using Middleware to Handle SIGTERM</a> <sub>— Oct 31, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
