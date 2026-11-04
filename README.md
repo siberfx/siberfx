@@ -95,11 +95,11 @@
 **Latest Articles:**
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/ai/scaling-groqs-llama-31-conversational-agents-with-kubernetes-a-practical-guide">Scaling Groq’s Llama 3.1 Conversational Agents with Kubernetes: A Practical Guide</a> <sub>— Nov 3, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/kubernetes/tracing-the-path-implementing-opentelemetry-for-distributed-tracing-in-kubernetes">Tracing the Path: Implementing OpenTelemetry for Distributed Tracing in Kubernetes</a> <sub>— Nov 4, 2026</sub></li>
+<li><a href="https://siberfx.com/article/react/incremental-search-with-usedeferredvalue-a-practical-guide-for-large-data-sets">Incremental Search with useDeferredValue: A Practical Guide for Large Data Sets</a> <sub>— Nov 4, 2026</sub></li>
+<li><a href="https://siberfx.com/article/php/domain-modeling-with-php-85-enums-backed-types-pattern-matching-and-immutable-value-objects">Domain Modeling with PHP 8.5 Enums: Backed Types, Pattern Matching, and Immutable Value Objects</a> <sub>— Nov 4, 2026</sub></li>
+<li><a href="https://siberfx.com/article/ai/scaling-groqs-llama-31-conversational-agents-with-kubernetes-a-practical-guide">Scaling Groq’s Llama 3.1 Conversational Agents with Kubernetes: A Practical Guide</a> <sub>— Nov 3, 2026</sub></li>
 <li><a href="https://siberfx.com/article/laravel/injecting-custom-retry-delays-with-laravel-service-container-middleware">Injecting Custom Retry Delays with Laravel Service Container Middleware</a> <sub>— Nov 3, 2026</sub></li>
-<li><a href="https://siberfx.com/article/php/typed-properties-with-union-types-in-php-85-enhancing-runtime-safety">Typed Properties with Union Types in PHP 8.5: Enhancing Runtime Safety</a> <sub>— Nov 1, 2026</sub></li>
-<li><a href="https://siberfx.com/article/linux/automating-dynamic-network-interface-configuration-with-systemdudev-rules">Automating Dynamic Network Interface Configuration with systemd‑udev Rules</a> <sub>— Nov 1, 2026</sub></li>
-<li><a href="https://siberfx.com/article/security/react-184-useeffect-memory-leak-cve20264321-deep-dive">React 18.4 useEffect Memory Leak: CVE‑2026‑4321 Deep Dive</a> <sub>— Oct 31, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
