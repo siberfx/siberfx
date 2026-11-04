@@ -95,11 +95,11 @@
 **Latest Articles:**
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/kubernetes/tracing-the-path-implementing-opentelemetry-for-distributed-tracing-in-kubernetes">Tracing the Path: Implementing OpenTelemetry for Distributed Tracing in Kubernetes</a> <sub>— Nov 4, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/php/mastering-match-fallthrough-in-php-85-a-practical-guide">Mastering Match Fallthrough in PHP 8.5: A Practical Guide</a> <sub>— Nov 4, 2026</sub></li>
+<li><a href="https://siberfx.com/article/kubernetes/tracing-the-path-implementing-opentelemetry-for-distributed-tracing-in-kubernetes">Tracing the Path: Implementing OpenTelemetry for Distributed Tracing in Kubernetes</a> <sub>— Nov 4, 2026</sub></li>
 <li><a href="https://siberfx.com/article/react/incremental-search-with-usedeferredvalue-a-practical-guide-for-large-data-sets">Incremental Search with useDeferredValue: A Practical Guide for Large Data Sets</a> <sub>— Nov 4, 2026</sub></li>
 <li><a href="https://siberfx.com/article/php/domain-modeling-with-php-85-enums-backed-types-pattern-matching-and-immutable-value-objects">Domain Modeling with PHP 8.5 Enums: Backed Types, Pattern Matching, and Immutable Value Objects</a> <sub>— Nov 4, 2026</sub></li>
 <li><a href="https://siberfx.com/article/ai/scaling-groqs-llama-31-conversational-agents-with-kubernetes-a-practical-guide">Scaling Groq’s Llama 3.1 Conversational Agents with Kubernetes: A Practical Guide</a> <sub>— Nov 3, 2026</sub></li>
-<li><a href="https://siberfx.com/article/laravel/injecting-custom-retry-delays-with-laravel-service-container-middleware">Injecting Custom Retry Delays with Laravel Service Container Middleware</a> <sub>— Nov 3, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
