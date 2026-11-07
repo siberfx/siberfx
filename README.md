@@ -20,9 +20,6 @@
  </p>
  </br>
 
-  **Languages and Tools:** 
-  
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siberfx/siberfx/main/image/tech-stack-dark.svg" />
