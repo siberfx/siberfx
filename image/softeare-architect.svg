@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <!-- Background & Surface Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090D16" />
+      <stop offset="50%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#1E1B4B" />
+    </linearGradient>
+
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1E293B" stop-opacity="0.92" />
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0.96" />
+    </linearGradient>
+
+    <linearGradient id="accentCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06B6D4" />
+      <stop offset="100%" stop-color="#3B82F6" />
+    </linearGradient>
+
+    <linearGradient id="accentPurple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6" />
+      <stop offset="100%" stop-color="#EC4899" />
+    </linearGradient>
+
+    <linearGradient id="accentGreen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10B981" />
+      <stop offset="100%" stop-color="#34D399" />
+    </linearGradient>
+
+    <linearGradient id="hoodieGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB" />
+      <stop offset="100%" stop-color="#1D4ED8" />
+    </linearGradient>
+
+    <linearGradient id="screenGlow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.0" />
+    </linearGradient>
+
+    <!-- ClipPath to strictly prevent any element from overflowing the left IDE card -->
+    <clipPath id="ideClip">
+      <rect x="45" y="55" width="240" height="165" rx="12" />
+    </clipPath>
+
+    <!-- Soft Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <filter id="softShadow" x="-10%" y="-10%" width="120%" height="125%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000000" flood-opacity="0.5" />
+    </filter>
+
+    <!-- Subtle Tech Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#334155" stroke-width="0.6" stroke-opacity="0.35" />
+    </pattern>
+  </defs>
+
+  <style>
+    @keyframes floatSlow {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    }
+    @keyframes floatReverse {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(8px); }
+    }
+    @keyframes codeLine1 {
+    0%, 10% { width: 0px; }
+    40%, 90% { width: 118px; }
+    100% { width: 0px; }
+    }
+    @keyframes codeLine2 {
+    0%, 20% { width: 0px; }
+    55%, 90% { width: 122px; }
+    100% { width: 0px; }
+    }
+    @keyframes codeLine3 {
+    0%, 35% { width: 0px; }
+    70%, 90% { width: 92px; }
+    100% { width: 0px; }
+    }
+    @keyframes codeLine4 {
+    0%, 50% { width: 0px; }
+    80%, 90% { width: 128px; }
+    100% { width: 0px; }
+    }
+    @keyframes blinkCursor {
+    0%, 49% { opacity: 1; }
+    50%, 100% { opacity: 0; }
+    }
+    @keyframes headBob {
+    0%, 100% { transform: rotate(0deg) translateY(0px); }
+    50% { transform: rotate(1.5deg) translateY(2px); }
+    }
+    @keyframes handTypeLeft {
+    0%, 100% { transform: translateY(0px); }
+    25% { transform: translateY(-3px); }
+    50% { transform: translateY(1px); }
+    75% { transform: translateY(-2px); }
+    }
+    @keyframes handTypeRight {
+    0%, 100% { transform: translateY(0px); }
+    20% { transform: translateY(1px); }
+    45% { transform: translateY(-3px); }
+    80% { transform: translateY(-2px); }
+    }
+    @keyframes dataFlow {
+    to { stroke-dashoffset: -40; }
+    }
+    @keyframes steamRise {
+    0% { transform: translateY(0) scaleX(1); opacity: 0; }
+    50% { opacity: 0.6; transform: translateY(-10px) scaleX(1.1); }
+    100% { transform: translateY(-22px) scaleX(0.9); opacity: 0; }
+    }
+    @keyframes spinGear {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+    }
+    @keyframes monsterPulse {
+    0%, 100% { filter: drop-shadow(0 0 2px #00FF66); opacity: 0.9; }
+    50% { filter: drop-shadow(0 0 8px #00FF66); opacity: 1; }
+    }
+
+    .float-1 { animation: floatSlow 4.5s ease-in-out infinite; }
+    .float-2 { animation: floatReverse 5.2s ease-in-out infinite; }
+    .float-3 { animation: floatSlow 6s ease-in-out infinite 1s; }
+    .head-anim { animation: headBob 3.5s ease-in-out infinite; transform-origin: 400px 230px; }
+    .hand-l { animation: handTypeLeft 0.6s ease-in-out infinite; }
+    .hand-r { animation: handTypeRight 0.55s ease-in-out infinite; }
+    .cursor { animation: blinkCursor 0.9s steps(1) infinite; }
+    .flow-line { stroke-dasharray: 6 6; animation: dataFlow 1.5s linear infinite; }
+    .type-1 { animation: codeLine1 5s ease-in-out infinite; }
+    .type-2 { animation: codeLine2 5s ease-in-out infinite; }
+    .type-3 { animation: codeLine3 5s ease-in-out infinite; }
+    .type-4 { animation: codeLine4 5s ease-in-out infinite; }
+    .steam-1 { animation: steamRise 2.8s ease-out infinite; }
+    .steam-2 { animation: steamRise 2.8s ease-out infinite 1.2s; }
+    .gear-spin { animation: spinGear 14s linear infinite; transform-origin: center; transform-box: fill-box; }
+    .monster-glow { animation: monsterPulse 3s ease-in-out infinite; }
+    .font-mono { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; }
+    .font-sans { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  </style>
+
+  <!-- Background Layer -->
+  <rect width="800" height="500" rx="20" fill="url(#bgGrad)" />
+  <rect width="800" height="500" rx="20" fill="url(#grid)" />
+
+  <!-- Ambient Glow Orbs -->
+  <circle cx="160" cy="130" r="95" fill="#3B82F6" opacity="0.12" filter="url(#glow)" />
+  <circle cx="650" cy="160" r="110" fill="#8B5CF6" opacity="0.12" filter="url(#glow)" />
+  <circle cx="400" cy="360" r="150" fill="#06B6D4" opacity="0.1" filter="url(#glow)" />
+
+  <!-- Animated Data Connection Lines -->
+  <g fill="none" stroke-width="1.8">
+    <path d="M 230 140 C 300 140, 310 240, 360 270" stroke="#38BDF8" stroke-opacity="0.45" class="flow-line" />
+    <path d="M 570 130 C 500 130, 490 230, 440 270" stroke="#A855F7" stroke-opacity="0.45" class="flow-line" />
+    <path d="M 190 310 C 260 310, 290 320, 340 330" stroke="#10B981" stroke-opacity="0.45" class="flow-line" />
+    <path d="M 610 310 C 540 310, 510 320, 460 330" stroke="#EC4899" stroke-opacity="0.45" class="flow-line" />
+  </g>
+
+  <!-- ================= LEFT FLOATING WINDOW: IDE / CODE EDITOR ================= -->
+  <g class="float-1" filter="url(#softShadow)">
+    <g clip-path="url(#ideClip)">
+      <rect x="45" y="55" width="240" height="165" rx="12" fill="url(#cardGrad)" />
+      <!-- Window Header -->
+      <path d="M 45 67 Q 45 55 57 55 L 273 55 Q 285 55 285 67 L 285 83 L 45 83 Z" fill="#0F172A" />
+      <circle cx="62" cy="69" r="4.5" fill="#EF4444" />
+      <circle cx="76" cy="69" r="4.5" fill="#F59E0B" />
+      <circle cx="90" cy="69" r="4.5" fill="#10B981" />
+      <text x="108" y="73" fill="#94A3B8" font-size="10" class="font-mono">KernelPipeline.php</text>
+
+      <!-- Line Numbers -->
+      <g fill="#475569" font-size="9.5" class="font-mono">
+        <text x="56" y="104">01</text>
+        <text x="56" y="122">02</text>
+        <text x="56" y="140">03</text>
+        <text x="56" y="158">04</text>
+        <text x="56" y="176">05</text>
+      </g>
+
+      <!-- Animated Syntax Highlighted Code Bars (Strictly inside x:78..260) -->
+      <rect x="78" y="96" width="54" height="7" rx="3.5" fill="#C084FC" />
+      <rect x="138" y="96" width="118" height="7" rx="3.5" fill="#38BDF8" class="type-1" />
+
+      <rect x="90" y="114" width="40" height="7" rx="3.5" fill="#F472B6" />
+      <rect x="136" y="114" width="122" height="7" rx="3.5" fill="#E2E8F0" class="type-2" />
+
+      <rect x="102" y="132" width="60" height="7" rx="3.5" fill="#34D399" />
+      <rect x="168" y="132" width="92" height="7" rx="3.5" fill="#FBBF24" class="type-3" />
+
+      <rect x="90" y="150" width="35" height="7" rx="3.5" fill="#60A5FA" />
+      <rect x="131" y="150" width="128" height="7" rx="3.5" fill="#A78BFA" class="type-4" />
+
+      <rect x="78" y="168" width="85" height="7" rx="3.5" fill="#38BDF8" />
+      <rect x="168" y="166" width="6" height="11" fill="#22D3EE" class="cursor" />
+
+      <!-- Context Indicators: Backend | Frontend | DevOps | RAG -->
+      <rect x="54" y="192" width="54" height="16" rx="4" fill="#06B6D4" fill-opacity="0.18" stroke="#06B6D4" stroke-width="0.8" stroke-opacity="0.6" />
+      <text x="81" y="203" fill="#22D3EE" font-size="8" font-weight="600" text-anchor="middle" class="font-mono">Backend</text>
+
+      <rect x="112" y="192" width="58" height="16" rx="4" fill="#8B5CF6" fill-opacity="0.18" stroke="#8B5CF6" stroke-width="0.8" stroke-opacity="0.6" />
+      <text x="141" y="203" fill="#C084FC" font-size="8" font-weight="600" text-anchor="middle" class="font-mono">Frontend</text>
+
+      <rect x="174" y="192" width="50" height="16" rx="4" fill="#10B981" fill-opacity="0.18" stroke="#10B981" stroke-width="0.8" stroke-opacity="0.6" />
+      <text x="199" y="203" fill="#34D399" font-size="8" font-weight="600" text-anchor="middle" class="font-mono">DevOps</text>
+
+      <rect x="228" y="192" width="46" height="16" rx="4" fill="#EC4899" fill-opacity="0.18" stroke="#EC4899" stroke-width="0.8" stroke-opacity="0.6" />
+      <text x="251" y="203" fill="#F472B6" font-size="8" font-weight="600" text-anchor="middle" class="font-mono">RAG</text>
+    </g>
+    <rect x="45" y="55" width="240" height="165" rx="12" fill="none" stroke="#334155" stroke-width="1.5" />
+  </g>
+
+  <!-- ================= RIGHT FLOATING WINDOW: CLOUD / DEVOPS / RAG STREAM ================= -->
+  <g class="float-2" filter="url(#softShadow)">
+    <rect x="515" y="55" width="240" height="165" rx="12" fill="url(#cardGrad)" stroke="#334155" stroke-width="1.5" />
+    <path d="M 515 67 Q 515 55 527 55 L 743 55 Q 755 55 755 67 L 755 83 L 515 83 Z" fill="#0F172A" />
+    <circle cx="532" cy="69" r="4" fill="#10B981" />
+    <text x="545" y="73" fill="#94A3B8" font-size="10" class="font-mono">cluster://siberfx-cloud</text>
+
+    <text x="532" y="105" fill="#CBD5E1" font-size="10" font-weight="600" class="font-sans">DevOps &amp; RAG Pipeline</text>
+    <text x="700" y="105" fill="#34D399" font-size="10" font-weight="700" class="font-mono">99.99%</text>
+
+    <g transform="translate(532, 118)">
+      <rect x="0" y="0" width="206" height="38" rx="6" fill="#090D16" stroke="#1E293B" />
+      <circle cx="24" cy="19" r="9" fill="#1E293B" stroke="#38BDF8" stroke-width="1.5" />
+      <circle cx="24" cy="19" r="3.5" fill="#38BDF8" />
+      <line x1="33" y1="19" x2="68" y2="19" stroke="#38BDF8" stroke-width="1.5" stroke-dasharray="3 3" class="flow-line" />
+
+      <circle cx="78" cy="19" r="9" fill="#1E293B" stroke="#8B5CF6" stroke-width="1.5" />
+      <circle cx="78" cy="19" r="3.5" fill="#8B5CF6" />
+      <line x1="87" y1="19" x2="122" y2="19" stroke="#8B5CF6" stroke-width="1.5" stroke-dasharray="3 3" class="flow-line" />
+
+      <circle cx="132" cy="19" r="9" fill="#1E293B" stroke="#10B981" stroke-width="1.5" />
+      <circle cx="132" cy="19" r="3.5" fill="#10B981" />
+      <line x1="141" y1="19" x2="172" y2="19" stroke="#10B981" stroke-width="1.5" stroke-dasharray="3 3" class="flow-line" />
+
+      <circle cx="182" cy="19" r="9" fill="#1E293B" stroke="#EC4899" stroke-width="1.5" />
+      <circle cx="182" cy="19" r="3.5" fill="#EC4899" />
+    </g>
+
+    <text x="532" y="174" fill="#64748B" font-size="9" class="font-mono">BACKEND &amp; RAG VECTORS</text>
+    <rect x="532" y="180" width="206" height="6" rx="3" fill="#0F172A" />
+    <rect x="532" y="180" width="175" height="6" rx="3" fill="url(#accentCyan)" />
+
+    <text x="532" y="200" fill="#64748B" font-size="9" class="font-mono">DEVOPS K8S REPLICAS (16/16)</text>
+    <rect x="532" y="205" width="206" height="6" rx="3" fill="#0F172A" />
+    <rect x="532" y="205" width="194" height="6" rx="3" fill="url(#accentGreen)" />
+  </g>
+
+  <!-- ================= BOTTOM LEFT BADGE: BACKEND & VECTOR DB ================= -->
+  <g class="float-2" filter="url(#softShadow)">
+    <rect x="55" y="265" width="160" height="88" rx="12" fill="url(#cardGrad)" stroke="#334155" stroke-width="1.5" />
+    <g transform="translate(70, 285)">
+      <ellipse cx="16" cy="6" rx="14" ry="5" fill="none" stroke="#34D399" stroke-width="1.8" />
+      <path d="M 2 6 L 2 18 C 2 21 30 21 30 18 L 30 6" fill="none" stroke="#34D399" stroke-width="1.8" />
+      <path d="M 2 18 L 2 30 C 2 33 30 33 30 30 L 30 18" fill="none" stroke="#34D399" stroke-width="1.8" />
+    </g>
+    <text x="110" y="298" fill="#F8FAFC" font-size="10.5" font-weight="700" class="font-sans">Backend &amp; RAG</text>
+    <text x="110" y="314" fill="#34D399" font-size="9" class="font-mono">Vector + SQL HA</text>
+    <rect x="110" y="324" width="88" height="14" rx="4" fill="#10B981" fill-opacity="0.15" />
+    <text x="154" y="334" fill="#6EE7B7" font-size="8" text-anchor="middle" class="font-mono">SUB-10MS SYNC</text>
+  </g>
+
+  <!-- ================= BOTTOM RIGHT BADGE: FRONTEND & DEVOPS ================= -->
+  <g class="float-3" filter="url(#softShadow)">
+    <rect x="585" y="265" width="160" height="88" rx="12" fill="url(#cardGrad)" stroke="#334155" stroke-width="1.5" />
+    <g transform="translate(612, 309)">
+      <g class="gear-spin" stroke="#C084FC" stroke-width="2" fill="none">
+        <circle cx="0" cy="0" r="10" />
+        <circle cx="0" cy="0" r="4" fill="#C084FC" />
+        <line x1="0" y1="-15" x2="0" y2="-11" />
+        <line x1="0" y1="11" x2="0" y2="15" />
+        <line x1="-15" y1="0" x2="-11" y2="0" />
+        <line x1="11" y1="0" x2="15" y2="0" />
+        <line x1="-10.5" y1="-10.5" x2="-7.8" y2="-7.8" />
+        <line x1="7.8" y1="7.8" x2="10.5" y2="10.5" />
+        <line x1="10.5" y1="-10.5" x2="7.8" y2="-7.8" />
+        <line x1="-7.8" y1="7.8" x2="-10.5" y2="10.5" />
+      </g>
+    </g>
+    <text x="636" y="298" fill="#F8FAFC" font-size="10.5" font-weight="700" class="font-sans">Frontend &amp; DevOps</text>
+    <text x="636" y="314" fill="#C084FC" font-size="9" class="font-mono">CI/CD • Zero-Downtime</text>
+    <rect x="636" y="324" width="92" height="14" rx="4" fill="#8B5CF6" fill-opacity="0.2" />
+    <text x="682" y="334" fill="#DDD6FE" font-size="8" text-anchor="middle" class="font-mono">BUILD PASSED</text>
+  </g>
+
+  <!-- ================= CENTER: SOFTWARE ENGINEER CHARACTER ================= -->
+  <g id="engineer">
+    <rect x="335" y="210" width="130" height="185" rx="28" fill="#0F172A" stroke="#334155" stroke-width="2" />
+    <rect x="350" y="225" width="100" height="150" rx="18" fill="#1E293B" />
+    <path d="M 315 395 C 315 315, 350 290, 400 290 C 450 290, 485 315, 485 395 Z" fill="url(#hoodieGrad)" />
+    <path d="M 368 292 Q 400 322 432 292" fill="none" stroke="#1E40AF" stroke-width="8" stroke-linecap="round" />
+    <line x1="386" y1="308" x2="383" y2="345" stroke="#93C5FD" stroke-width="2.5" stroke-linecap="round" />
+    <line x1="414" y1="308" x2="417" y2="345" stroke="#93C5FD" stroke-width="2.5" stroke-linecap="round" />
+    <rect x="386" y="262" width="28" height="36" rx="10" fill="#FDBA74" />
+    <path d="M 386 278 Q 400 290 414 278 L 414 268 L 386 268 Z" fill="#EA580C" opacity="0.22" />
+
+    <g class="head-anim">
+      <rect x="362" y="172" width="76" height="96" rx="36" fill="#FDBA74" />
+      <circle cx="360" cy="224" r="10" fill="#FDBA74" />
+      <circle cx="440" cy="224" r="10" fill="#FDBA74" />
+      <path d="M 358 212 C 354 170, 380 154, 412 158 C 438 160, 448 182, 442 212 C 438 192, 424 184, 400 184 C 376 184, 364 194, 358 212 Z" fill="#0F172A" />
+      <path d="M 368 168 Q 405 145 436 172 Q 412 162 368 168 Z" fill="#1E293B" />
+      <path d="M 375 206 Q 384 202 392 205" fill="none" stroke="#0F172A" stroke-width="2.8" stroke-linecap="round" />
+      <path d="M 408 205 Q 416 202 425 206" fill="none" stroke="#0F172A" stroke-width="2.8" stroke-linecap="round" />
+      <circle cx="384" cy="218" r="3.8" fill="#0F172A" />
+      <circle cx="416" cy="218" r="3.8" fill="#0F172A" />
+      <circle cx="385.5" cy="216.5" r="1.2" fill="#FFFFFF" />
+      <circle cx="417.5" cy="216.5" r="1.2" fill="#FFFFFF" />
+      <rect x="369" y="208" width="29" height="20" rx="5" fill="#38BDF8" fill-opacity="0.18" stroke="#0F172A" stroke-width="2.6" />
+      <rect x="402" y="208" width="29" height="20" rx="5" fill="#38BDF8" fill-opacity="0.18" stroke="#0F172A" stroke-width="2.6" />
+      <line x1="398" y1="216" x2="402" y2="216" stroke="#0F172A" stroke-width="2.6" />
+      <line x1="373" y1="212" x2="379" y2="224" stroke="#E0F2FE" stroke-width="1.8" stroke-linecap="round" opacity="0.8" />
+      <line x1="406" y1="212" x2="412" y2="224" stroke="#E0F2FE" stroke-width="1.8" stroke-linecap="round" opacity="0.8" />
+      <path d="M 392 246 Q 400 252 408 246" fill="none" stroke="#9A3412" stroke-width="2.4" stroke-linecap="round" />
+      <path d="M 353 220 C 350 150, 450 150, 447 220" fill="none" stroke="#334155" stroke-width="7" stroke-linecap="round" />
+      <rect x="346" y="206" width="14" height="32" rx="7" fill="#1E293B" stroke="#38BDF8" stroke-width="2" />
+      <rect x="440" y="206" width="14" height="32" rx="7" fill="#1E293B" stroke="#38BDF8" stroke-width="2" />
+    </g>
+
+    <polygon points="315,390 485,390 445,250 355,250" fill="url(#screenGlow)" pointer-events="none" />
+    <g class="hand-l"><ellipse cx="345" cy="392" rx="14" ry="9" fill="#FDBA74" /></g>
+    <g class="hand-r"><ellipse cx="455" cy="392" rx="14" ry="9" fill="#FDBA74" /></g>
+
+    <!-- LAPTOP: MONSTER BRAND & SIBERFX LOGO -->
+    <rect x="322" y="302" width="156" height="100" rx="10" fill="#1A2E22" stroke="#00FF66" stroke-width="1.8" filter="url(#softShadow)" />
+    <path d="M 328 308 L 338 312 L 438 312 L 448 308" fill="none" stroke="#00FF66" stroke-width="1" opacity="0.4" />
+    <path d="M 328 392 L 338 388 L 438 388 L 448 392" fill="none" stroke="#00FF66" stroke-width="1" opacity="0.4" />
+
+    <g transform="translate(400, 335)">
+      <g class="monster-glow">
+        <path d="M -16 -12 L -8 -16 L -10 -4 L -16 -12" fill="#00FF66" />
+        <path d="M -6 -16 L 0 -22 L 2 -16 L -6 -16" fill="#00FF66" />
+        <path d="M 6 -16 L 16 -12 L 10 -4 L 6 -16" fill="#00FF66" />
+        <path d="M -8 -8 L 0 -12 L 8 -8 L 12 0 L 0 6 L -12 0 L -8 -8" fill="#0F172A" stroke="#00FF66" stroke-width="1.5" />
+        <circle cx="0" cy="-3" r="2.5" fill="#00FF66" />
+      </g>
+      <text x="0" y="16" fill="#00FF66" font-size="8" font-weight="900" font-family="'Impact', 'Arial Black', sans-serif" letter-spacing="1.5" text-anchor="middle">MONSTER</text>
+    </g>
+
+    <g transform="translate(400, 375)">
+      <rect x="-42" y="-9" width="84" height="15" rx="3" fill="#090D16" fill-opacity="0.8" stroke="#38BDF8" stroke-width="0.8" />
+      <text x="0" y="2" fill="#38BDF8" font-size="8" font-weight="800" class="font-mono" text-anchor="middle" letter-spacing="0.5">SIBERFX</text>
+    </g>
+
+    <rect x="302" y="398" width="196" height="8" rx="4" fill="#334155" stroke="#00FF66" stroke-width="1" />
+  </g>
+
+  <!-- ================= WORKSTATION DESK & ACCESSORIES ================= -->
+  <rect x="130" y="406" width="540" height="14" rx="7" fill="#1E293B" stroke="#334155" stroke-width="1.5" />
+  <line x1="180" y1="406" x2="620" y2="406" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.5" />
+
+  <g transform="translate(225, 366)">
+    <path d="M 12 -4 Q 7 -12 14 -18" fill="none" stroke="#94A3B8" stroke-width="2" stroke-linecap="round" class="steam-1" />
+    <path d="M 22 -2 Q 27 -10 20 -18" fill="none" stroke="#94A3B8" stroke-width="2" stroke-linecap="round" class="steam-2" />
+    <rect x="4" y="4" width="26" height="34" rx="5" fill="#0F172A" stroke="#38BDF8" stroke-width="1.8" />
+    <path d="M 30 11 C 38 11, 38 27, 30 27" fill="none" stroke="#38BDF8" stroke-width="1.8" />
+    <rect x="9" y="14" width="16" height="4" rx="2" fill="#38BDF8" />
+  </g>
+
+  <g transform="translate(538, 364)">
+    <path d="M 16 18 C 6 8, 8 0, 16 6 C 16 -4, 24 -4, 24 6 C 32 0, 34 8, 24 18 Z" fill="#10B981" />
+    <rect x="8" y="18" width="24" height="22" rx="4" fill="#1E293B" stroke="#475569" stroke-width="1.5" />
+  </g>
+
+  <!-- Bottom Tech Stack Pill Banner -->
+  <g transform="translate(165, 442)">
+    <rect x="0" y="0" width="470" height="34" rx="17" fill="#090D16" fill-opacity="0.88" stroke="#38BDF8" stroke-width="1.2" />
+    <circle cx="22" cy="17" r="4.5" fill="#10B981" />
+    <text x="242" y="21" fill="#F8FAFC" font-size="10" font-weight="600" text-anchor="middle" class="font-mono">BACKEND • FRONTEND • DEVOPS • RAG • SIBERFX.COM</text>
+  </g>
+</svg>
