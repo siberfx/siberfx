@@ -95,11 +95,11 @@
 **Latest Articles:**
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/laravel/samsa-kafka-inspired-event-streaming-for-laravel">Samsa: Kafka-Inspired Event Streaming for Laravel</a> <sub>— Oct 18, 2026</sub></li>
-<li><a href="https://siberfx.com/article/ai/finetuning-gemini-with-lora-building-domainspecific-chatbots-on-a-budget">Fine‑Tuning Gemini with LoRA: Building Domain‑Specific Chatbots on a Budget</a> <sub>— Oct 18, 2026</sub></li>
-<li><a href="https://siberfx.com/article/php/building-flexible-state-machines-with-php-86s-match-fallthrough">Building Flexible State Machines with PHP 8.6’s Match Fallthrough</a> <sub>— Oct 18, 2026</sub></li>
-<li><a href="https://siberfx.com/article/php/harnessing-php-85s-named-arguments-with-defaults-for-cleaner-api-design">Harnessing PHP 8.5’s Named Arguments with Defaults for Cleaner API Design</a> <sub>— Oct 18, 2026</sub></li>
-<li><a href="https://siberfx.com/article/linux/architecting-for-enterprise-a-mindset-shift-from-code-to-system">Architecting for Enterprise: A Mindset Shift from Code to System</a> <sub>— Oct 17, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/php/typed-properties-with-union-types-in-php-85-enhancing-runtime-safety-2">Typed Properties with Union Types in PHP 8.5: Enhancing Runtime Safety</a> <sub>— Nov 7, 2026</sub></li>
+<li><a href="https://siberfx.com/article/react/optimistic-ui-with-react-usetransition-fast-responsive-form-submissions">Optimistic UI with React useTransition: Fast, Responsive Form Submissions</a> <sub>— Nov 6, 2026</sub></li>
+<li><a href="https://siberfx.com/article/ai/automating-code-review-in-ci-with-gemini-code-interpreter">Automating Code Review in CI with Gemini Code Interpreter</a> <sub>— Nov 5, 2026</sub></li>
+<li><a href="https://siberfx.com/article/react/realtime-form-validation-with-reacts-usesyncexternalstore-and-external-apis">Real‑Time Form Validation with React’s useSyncExternalStore and External APIs</a> <sub>— Nov 5, 2026</sub></li>
+<li><a href="https://siberfx.com/article/php/mastering-match-fallthrough-in-php-85-a-practical-guide">Mastering Match Fallthrough in PHP 8.5: A Practical Guide</a> <sub>— Nov 4, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
