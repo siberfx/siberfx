@@ -1,9 +1,9 @@
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <!-- <img align="right" height="auto" width="600" alt="GIF" src="https://raw.githubusercontent.com/siberfx/siberfx/main/image/full-stack-development.gif" /> -->
 
-<img align="right" height="260" width="auto" alt="Software Architect" src="https://raw.githubusercontent.com/siberfx/siberfx/main/image/softeare-architect.svg" />
+<img align="right" height="260" width="auto" alt="Software Architect" src="https://raw.githubusercontent.com/siberfx/siberfx/main/image/software-architect.svg" />
 
- * How to reach me: [info@siberfx.com](mailto:info@siberfx.com)
+ * How to reach me: [contact@siberfx.com](mailto:contact@siberfx.com)
  * My website: [https://siberfx.com/](https://siberfx.com/)
  * [<img height="13" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/Instagram.svg"> @siberfx](https://instagram.com/siberfx)
  * [<img height="13" src="https://raw.githubusercontent.com/siberfx/siberfx/main/svg/LinkedIn.svg"> @siberfx](https://www.linkedin.com/in/siberfx/)
