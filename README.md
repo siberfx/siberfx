@@ -24,7 +24,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siberfx/siberfx/main/image/tech-stack-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siberfx/siberfx/main/image/tech-stack-light.svg" />
-  <img width="100%" alt="Tech stack: OS, CLI, Backend, Frontend, DevOps, AI tools, Programs, Communication" src="https://raw.githubusercontent.com/siberfx/siberfx/main/image/tech-stack-light.svg" />
+  <img width="100%" alt="Tech stack: OS, CLI, Backend, Frontend, DevOps, Documentation, AI tools, Programs, Communication" src="https://raw.githubusercontent.com/siberfx/siberfx/main/image/tech-stack-light.svg" />
 </picture>
 
 <br />
