@@ -42,11 +42,11 @@
 **Latest Articles:**
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/php/typed-properties-with-union-types-in-php-85-enhancing-runtime-safety-2">Typed Properties with Union Types in PHP 8.5: Enhancing Runtime Safety</a> <sub>— Nov 7, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/linux/enforcing-peruser-temp-directory-quotas-with-systemdtmpfiles">Enforcing Per‑User Temp Directory Quotas with systemd‑tmpfiles</a> <sub>— Nov 7, 2026</sub></li>
+<li><a href="https://siberfx.com/article/security/php-87-array-destructuring-cve20269999-and-the-path-to-arbitrary-code-execution">PHP 8.7 Array Destructuring: CVE‑2026‑9999 and the Path to Arbitrary Code Execution</a> <sub>— Nov 7, 2026</sub></li>
+<li><a href="https://siberfx.com/article/laravel/injecting-dynamic-rate-limits-into-laravel-queue-workers-via-the-service-container">Injecting Dynamic Rate Limits into Laravel Queue Workers via the Service Container</a> <sub>— Nov 7, 2026</sub></li>
+<li><a href="https://siberfx.com/article/php/typed-properties-with-union-types-in-php-85-enhancing-runtime-safety-2">Typed Properties with Union Types in PHP 8.5: Enhancing Runtime Safety</a> <sub>— Nov 7, 2026</sub></li>
 <li><a href="https://siberfx.com/article/react/optimistic-ui-with-react-usetransition-fast-responsive-form-submissions">Optimistic UI with React useTransition: Fast, Responsive Form Submissions</a> <sub>— Nov 6, 2026</sub></li>
-<li><a href="https://siberfx.com/article/ai/automating-code-review-in-ci-with-gemini-code-interpreter">Automating Code Review in CI with Gemini Code Interpreter</a> <sub>— Nov 5, 2026</sub></li>
-<li><a href="https://siberfx.com/article/react/realtime-form-validation-with-reacts-usesyncexternalstore-and-external-apis">Real‑Time Form Validation with React’s useSyncExternalStore and External APIs</a> <sub>— Nov 5, 2026</sub></li>
-<li><a href="https://siberfx.com/article/php/mastering-match-fallthrough-in-php-85-a-practical-guide">Mastering Match Fallthrough in PHP 8.5: A Practical Guide</a> <sub>— Nov 4, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
