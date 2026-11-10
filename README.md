@@ -42,11 +42,11 @@
 **Latest Articles:**
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/react/filtering-gigantic-lists-in-react-a-custom-hook-with-usesyncexternalstore-and-usedeferredvalue">Filtering Gigantic Lists in React: A Custom Hook with useSyncExternalStore and useDeferredValue</a> <sub>— Nov 9, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/laravel/backpressureaware-queue-middleware-throttling-workers-with-dynamic-sleep-intervals">Backpressure‑Aware Queue Middleware: Throttling Workers with Dynamic Sleep Intervals</a> <sub>— Nov 10, 2026</sub></li>
+<li><a href="https://siberfx.com/article/react/filtering-gigantic-lists-in-react-a-custom-hook-with-usesyncexternalstore-and-usedeferredvalue">Filtering Gigantic Lists in React: A Custom Hook with useSyncExternalStore and useDeferredValue</a> <sub>— Nov 9, 2026</sub></li>
 <li><a href="https://siberfx.com/article/linux/enforcing-peruser-temp-directory-quotas-with-systemdtmpfiles">Enforcing Per‑User Temp Directory Quotas with systemd‑tmpfiles</a> <sub>— Nov 7, 2026</sub></li>
 <li><a href="https://siberfx.com/article/security/php-87-array-destructuring-cve20269999-and-the-path-to-arbitrary-code-execution">PHP 8.7 Array Destructuring: CVE‑2026‑9999 and the Path to Arbitrary Code Execution</a> <sub>— Nov 7, 2026</sub></li>
 <li><a href="https://siberfx.com/article/laravel/injecting-dynamic-rate-limits-into-laravel-queue-workers-via-the-service-container">Injecting Dynamic Rate Limits into Laravel Queue Workers via the Service Container</a> <sub>— Nov 7, 2026</sub></li>
-<li><a href="https://siberfx.com/article/php/typed-properties-with-union-types-in-php-85-enhancing-runtime-safety-2">Typed Properties with Union Types in PHP 8.5: Enhancing Runtime Safety</a> <sub>— Nov 7, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
