@@ -42,11 +42,11 @@
 **Latest Articles:**
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/kubernetes/automating-helm-chart-linting-and-unit-tests-with-github-actions">Automating Helm Chart Linting and Unit Tests with GitHub Actions</a> <sub>— Nov 11, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/react/suspending-data-fetches-with-usedeferredvalue-a-practical-guide">Suspending Data Fetches with useDeferredValue: A Practical Guide</a> <sub>— Nov 12, 2026</sub></li>
+<li><a href="https://siberfx.com/article/php/ensuring-type-safety-with-php-85s-match-expression-enhancements">Ensuring Type Safety with PHP 8.5’s Match Expression Enhancements</a> <sub>— Nov 12, 2026</sub></li>
+<li><a href="https://siberfx.com/article/kubernetes/automating-helm-chart-linting-and-unit-tests-with-github-actions">Automating Helm Chart Linting and Unit Tests with GitHub Actions</a> <sub>— Nov 11, 2026</sub></li>
 <li><a href="https://siberfx.com/article/linux/finegrained-memory-quotas-for-kubernetes-pods-with-systemdoomd">Fine‑Grained Memory Quotas for Kubernetes Pods with systemd‑oomd</a> <sub>— Nov 10, 2026</sub></li>
 <li><a href="https://siberfx.com/article/laravel/backpressureaware-queue-middleware-throttling-workers-with-dynamic-sleep-intervals">Backpressure‑Aware Queue Middleware: Throttling Workers with Dynamic Sleep Intervals</a> <sub>— Nov 10, 2026</sub></li>
-<li><a href="https://siberfx.com/article/react/filtering-gigantic-lists-in-react-a-custom-hook-with-usesyncexternalstore-and-usedeferredvalue">Filtering Gigantic Lists in React: A Custom Hook with useSyncExternalStore and useDeferredValue</a> <sub>— Nov 9, 2026</sub></li>
-<li><a href="https://siberfx.com/article/linux/enforcing-peruser-temp-directory-quotas-with-systemdtmpfiles">Enforcing Per‑User Temp Directory Quotas with systemd‑tmpfiles</a> <sub>— Nov 7, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
