@@ -42,11 +42,11 @@
 **Latest Articles:**
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/ai/automating-documentation-generation-with-geminis-code-interpreter-in-github-actions">Automating Documentation Generation with Gemini’s Code Interpreter in GitHub Actions</a> <sub>— Nov 13, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/laravel/dynamic-retry-backoff-with-laravel-queue-middleware-and-the-service-container">Dynamic Retry Backoff with Laravel Queue Middleware and the Service Container</a> <sub>— Nov 13, 2026</sub></li>
+<li><a href="https://siberfx.com/article/ai/automating-documentation-generation-with-geminis-code-interpreter-in-github-actions">Automating Documentation Generation with Gemini’s Code Interpreter in GitHub Actions</a> <sub>— Nov 13, 2026</sub></li>
 <li><a href="https://siberfx.com/article/react/suspending-data-fetches-with-usedeferredvalue-a-practical-guide">Suspending Data Fetches with useDeferredValue: A Practical Guide</a> <sub>— Nov 12, 2026</sub></li>
 <li><a href="https://siberfx.com/article/php/ensuring-type-safety-with-php-85s-match-expression-enhancements">Ensuring Type Safety with PHP 8.5’s Match Expression Enhancements</a> <sub>— Nov 12, 2026</sub></li>
 <li><a href="https://siberfx.com/article/kubernetes/automating-helm-chart-linting-and-unit-tests-with-github-actions">Automating Helm Chart Linting and Unit Tests with GitHub Actions</a> <sub>— Nov 11, 2026</sub></li>
-<li><a href="https://siberfx.com/article/linux/finegrained-memory-quotas-for-kubernetes-pods-with-systemdoomd">Fine‑Grained Memory Quotas for Kubernetes Pods with systemd‑oomd</a> <sub>— Nov 10, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
