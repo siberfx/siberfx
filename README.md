@@ -42,11 +42,11 @@
 **Latest Articles:**
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/security/react-185-suspense-lazy-loading-race-condition-preventing-data-leakage">React 18.5 Suspense Lazy Loading Race Condition: Preventing Data Leakage</a> <sub>— Nov 14, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/react/realtime-stock-ticker-with-react-usesyncexternalstore-and-websocket-streams">Real‑Time Stock Ticker with React useSyncExternalStore and WebSocket Streams</a> <sub>— Nov 15, 2026</sub></li>
+<li><a href="https://siberfx.com/article/security/react-185-suspense-lazy-loading-race-condition-preventing-data-leakage">React 18.5 Suspense Lazy Loading Race Condition: Preventing Data Leakage</a> <sub>— Nov 14, 2026</sub></li>
 <li><a href="https://siberfx.com/article/laravel/dynamic-retry-backoff-with-laravel-queue-middleware-and-the-service-container">Dynamic Retry Backoff with Laravel Queue Middleware and the Service Container</a> <sub>— Nov 13, 2026</sub></li>
 <li><a href="https://siberfx.com/article/ai/automating-documentation-generation-with-geminis-code-interpreter-in-github-actions">Automating Documentation Generation with Gemini’s Code Interpreter in GitHub Actions</a> <sub>— Nov 13, 2026</sub></li>
 <li><a href="https://siberfx.com/article/react/suspending-data-fetches-with-usedeferredvalue-a-practical-guide">Suspending Data Fetches with useDeferredValue: A Practical Guide</a> <sub>— Nov 12, 2026</sub></li>
-<li><a href="https://siberfx.com/article/php/ensuring-type-safety-with-php-85s-match-expression-enhancements">Ensuring Type Safety with PHP 8.5’s Match Expression Enhancements</a> <sub>— Nov 12, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
