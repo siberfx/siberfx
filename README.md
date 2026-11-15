@@ -42,11 +42,11 @@
 **Latest Articles:**
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/react/realtime-stock-ticker-with-react-usesyncexternalstore-and-websocket-streams">Real‑Time Stock Ticker with React useSyncExternalStore and WebSocket Streams</a> <sub>— Nov 15, 2026</sub></li>
-<li><a href="https://siberfx.com/article/security/react-185-suspense-lazy-loading-race-condition-preventing-data-leakage">React 18.5 Suspense Lazy Loading Race Condition: Preventing Data Leakage</a> <sub>— Nov 14, 2026</sub></li>
-<li><a href="https://siberfx.com/article/laravel/dynamic-retry-backoff-with-laravel-queue-middleware-and-the-service-container">Dynamic Retry Backoff with Laravel Queue Middleware and the Service Container</a> <sub>— Nov 13, 2026</sub></li>
-<li><a href="https://siberfx.com/article/ai/automating-documentation-generation-with-geminis-code-interpreter-in-github-actions">Automating Documentation Generation with Gemini’s Code Interpreter in GitHub Actions</a> <sub>— Nov 13, 2026</sub></li>
-<li><a href="https://siberfx.com/article/react/suspending-data-fetches-with-usedeferredvalue-a-practical-guide">Suspending Data Fetches with useDeferredValue: A Practical Guide</a> <sub>— Nov 12, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/security/cve-2026-109518-critical-apt-vulnerability-in-debian-and-ubuntu">CVE-2026-109518: Critical APT Vulnerability in Debian and Ubuntu</a> <sub>— Nov 15, 2026</sub></li>
+<li><a href="https://siberfx.com/article/linux/automating-ssh-key-rotation-with-openssh-and-systemd-timers">Automating SSH Key Rotation with OpenSSH and Systemd Timers</a> <sub>— Nov 15, 2026</sub></li>
+<li><a href="https://siberfx.com/article/laravel/new-generation-rbac-and-scope-based-team-tenant-supporting-package-siberfxrbac-permission">new generation rbac and scope based team, tenant supporting package siberfx/rbac-permission</a> <sub>— Nov 15, 2026</sub></li>
+<li><a href="https://siberfx.com/article/linux/triggering-automated-workflows-with-systemdpath-units">Triggering Automated Workflows with systemd‑Path Units</a> <sub>— Nov 15, 2026</sub></li>
+<li><a href="https://siberfx.com/article/kubernetes/secure-secrets-in-gitops-automating-kubernetes-secret-management-with-vault">Secure Secrets in GitOps: Automating Kubernetes Secret Management with Vault</a> <sub>— Nov 15, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
