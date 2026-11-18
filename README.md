@@ -42,11 +42,11 @@
 **Latest Articles:**
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/laravel/prioritizing-laravel-queue-jobs-with-a-servicecontainerbacked-middleware">Prioritizing Laravel Queue Jobs with a Service‑Container‑Backed Middleware</a> <sub>— Nov 16, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/ai/deploying-groqs-llama-31-with-langchain-for-realtime-customer-support-in-kubernetes">Deploying Groq’s Llama 3.1 with LangChain for Real‑Time Customer Support in Kubernetes</a> <sub>— Nov 17, 2026</sub></li>
+<li><a href="https://siberfx.com/article/react/leveraging-usesyncexternalstore-for-global-configuration-in-react">Leveraging useSyncExternalStore for Global Configuration in React</a> <sub>— Nov 17, 2026</sub></li>
+<li><a href="https://siberfx.com/article/laravel/prioritizing-laravel-queue-jobs-with-a-servicecontainerbacked-middleware">Prioritizing Laravel Queue Jobs with a Service‑Container‑Backed Middleware</a> <sub>— Nov 16, 2026</sub></li>
 <li><a href="https://siberfx.com/article/security/cve-2026-109518-critical-apt-vulnerability-in-debian-and-ubuntu">CVE-2026-109518: Critical APT Vulnerability in Debian and Ubuntu</a> <sub>— Nov 15, 2026</sub></li>
 <li><a href="https://siberfx.com/article/linux/automating-ssh-key-rotation-with-openssh-and-systemd-timers">Automating SSH Key Rotation with OpenSSH and Systemd Timers</a> <sub>— Nov 15, 2026</sub></li>
-<li><a href="https://siberfx.com/article/laravel/new-generation-rbac-and-scope-based-team-tenant-supporting-package-siberfxrbac-permission">new generation rbac and scope based team, tenant supporting package siberfx/rbac-permission</a> <sub>— Nov 15, 2026</sub></li>
-<li><a href="https://siberfx.com/article/linux/triggering-automated-workflows-with-systemdpath-units">Triggering Automated Workflows with systemd‑Path Units</a> <sub>— Nov 15, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
