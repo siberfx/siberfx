@@ -42,11 +42,11 @@
 **Latest Articles:**
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/php/fluent-apis-with-php-85-named-arguments-and-defaults">Fluent APIs with PHP 8.5 Named Arguments and Defaults</a> <sub>— Nov 19, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/laravel/dynamic-job-prioritization-with-servicecontainer-middleware-in-laravel">Dynamic Job Prioritization with Service‑Container Middleware in Laravel</a> <sub>— Nov 19, 2026</sub></li>
+<li><a href="https://siberfx.com/article/php/fluent-apis-with-php-85-named-arguments-and-defaults">Fluent APIs with PHP 8.5 Named Arguments and Defaults</a> <sub>— Nov 19, 2026</sub></li>
 <li><a href="https://siberfx.com/article/ai/deploying-groqs-llama-31-with-langchain-for-realtime-customer-support-in-kubernetes">Deploying Groq’s Llama 3.1 with LangChain for Real‑Time Customer Support in Kubernetes</a> <sub>— Nov 17, 2026</sub></li>
 <li><a href="https://siberfx.com/article/react/leveraging-usesyncexternalstore-for-global-configuration-in-react">Leveraging useSyncExternalStore for Global Configuration in React</a> <sub>— Nov 17, 2026</sub></li>
 <li><a href="https://siberfx.com/article/laravel/prioritizing-laravel-queue-jobs-with-a-servicecontainerbacked-middleware">Prioritizing Laravel Queue Jobs with a Service‑Container‑Backed Middleware</a> <sub>— Nov 16, 2026</sub></li>
-<li><a href="https://siberfx.com/article/security/cve-2026-109518-critical-apt-vulnerability-in-debian-and-ubuntu">CVE-2026-109518: Critical APT Vulnerability in Debian and Ubuntu</a> <sub>— Nov 15, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
