@@ -42,11 +42,11 @@
 **Latest Articles:**
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/security/array-destructuring-in-php-87-why-cve20269999-is-a-silent-code-execution-threat">Array Destructuring in PHP 8.7: Why CVE‑2026‑9999 Is a Silent Code Execution Threat</a> <sub>— Nov 21, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/kubernetes/canary-releases-in-kubernetes-with-flagger-and-prometheus-a-handson-guide">Canary Releases in Kubernetes with Flagger and Prometheus: A Hands‑On Guide</a> <sub>— Nov 22, 2026</sub></li>
+<li><a href="https://siberfx.com/article/security/array-destructuring-in-php-87-why-cve20269999-is-a-silent-code-execution-threat">Array Destructuring in PHP 8.7: Why CVE‑2026‑9999 Is a Silent Code Execution Threat</a> <sub>— Nov 21, 2026</sub></li>
 <li><a href="https://siberfx.com/article/react/throttle-expensive-state-updates-in-react-dashboards-with-usetransition">Throttle Expensive State Updates in React Dashboards with useTransition</a> <sub>— Nov 20, 2026</sub></li>
 <li><a href="https://siberfx.com/article/laravel/dynamic-job-prioritization-with-servicecontainer-middleware-in-laravel">Dynamic Job Prioritization with Service‑Container Middleware in Laravel</a> <sub>— Nov 19, 2026</sub></li>
 <li><a href="https://siberfx.com/article/php/fluent-apis-with-php-85-named-arguments-and-defaults">Fluent APIs with PHP 8.5 Named Arguments and Defaults</a> <sub>— Nov 19, 2026</sub></li>
-<li><a href="https://siberfx.com/article/ai/deploying-groqs-llama-31-with-langchain-for-realtime-customer-support-in-kubernetes">Deploying Groq’s Llama 3.1 with LangChain for Real‑Time Customer Support in Kubernetes</a> <sub>— Nov 17, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
