@@ -42,11 +42,11 @@
 **Latest Articles:**
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/ai/automating-security-audits-with-geminis-code-interpreter-in-github-actions">Automating Security Audits with Gemini’s Code Interpreter in GitHub Actions</a> <sub>— Nov 22, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/laravel/building-a-kafkadriven-event-bus-with-laravel-horizon-and-service-providers">Building a Kafka‑Driven Event Bus with Laravel Horizon and Service Providers</a> <sub>— Nov 23, 2026</sub></li>
+<li><a href="https://siberfx.com/article/linux/enforcing-peruser-temp-quotas-on-shared-nfs-with-systemdtmpfiles">Enforcing Per‑User Temp Quotas on Shared NFS with systemd‑tmpfiles</a> <sub>— Nov 23, 2026</sub></li>
+<li><a href="https://siberfx.com/article/react/optimizing-infinite-scroll-with-usedeferredvalue-and-usetransition">Optimizing Infinite Scroll with useDeferredValue and useTransition</a> <sub>— Nov 23, 2026</sub></li>
+<li><a href="https://siberfx.com/article/ai/automating-security-audits-with-geminis-code-interpreter-in-github-actions">Automating Security Audits with Gemini’s Code Interpreter in GitHub Actions</a> <sub>— Nov 22, 2026</sub></li>
 <li><a href="https://siberfx.com/article/linux/securing-dockerized-microservices-with-systemd-resolved-and-dnsovertls">Securing Dockerized Microservices with systemd-resolved and DNS‑over‑TLS</a> <sub>— Nov 22, 2026</sub></li>
-<li><a href="https://siberfx.com/article/laravel/distributed-locking-for-laravel-queue-workers-with-the-service-container">Distributed Locking for Laravel Queue Workers with the Service Container</a> <sub>— Nov 22, 2026</sub></li>
-<li><a href="https://siberfx.com/article/kubernetes/canary-releases-in-kubernetes-with-flagger-and-prometheus-a-handson-guide">Canary Releases in Kubernetes with Flagger and Prometheus: A Hands‑On Guide</a> <sub>— Nov 22, 2026</sub></li>
-<li><a href="https://siberfx.com/article/security/array-destructuring-in-php-87-why-cve20269999-is-a-silent-code-execution-threat">Array Destructuring in PHP 8.7: Why CVE‑2026‑9999 Is a Silent Code Execution Threat</a> <sub>— Nov 21, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
