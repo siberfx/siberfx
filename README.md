@@ -42,11 +42,11 @@
 **Latest Articles:**
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/laravel/why-rbac-permission-outperforms-spaties-laravel-package-for-fine-grained-access-control">Why RBAC Permission Outperforms Spatie&#39;s Laravel Package for Fine-Grained Access Control</a> <sub>— Nov 24, 2026</sub></li>
+<!-- BLOG-POST-LIST:START --><li><a href="https://siberfx.com/article/php/leveraging-php-85s-readonly-property-promotion-for-immutable-dtos">Leveraging PHP 8.5&#39;s Readonly Property Promotion for Immutable DTOs</a> <sub>— Nov 26, 2026</sub></li>
+<li><a href="https://siberfx.com/article/laravel/why-rbac-permission-outperforms-spaties-laravel-package-for-fine-grained-access-control">Why RBAC Permission Outperforms Spatie&#39;s Laravel Package for Fine-Grained Access Control</a> <sub>— Nov 24, 2026</sub></li>
 <li><a href="https://siberfx.com/article/laravel/building-a-kafkadriven-event-bus-with-laravel-horizon-and-service-providers">Building a Kafka‑Driven Event Bus with Laravel Horizon and Service Providers</a> <sub>— Nov 23, 2026</sub></li>
 <li><a href="https://siberfx.com/article/linux/enforcing-peruser-temp-quotas-on-shared-nfs-with-systemdtmpfiles">Enforcing Per‑User Temp Quotas on Shared NFS with systemd‑tmpfiles</a> <sub>— Nov 23, 2026</sub></li>
 <li><a href="https://siberfx.com/article/react/optimizing-infinite-scroll-with-usedeferredvalue-and-usetransition">Optimizing Infinite Scroll with useDeferredValue and useTransition</a> <sub>— Nov 23, 2026</sub></li>
-<li><a href="https://siberfx.com/article/ai/automating-security-audits-with-geminis-code-interpreter-in-github-actions">Automating Security Audits with Gemini’s Code Interpreter in GitHub Actions</a> <sub>— Nov 22, 2026</sub></li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
