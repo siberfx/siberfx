@@ -1,7 +1,7 @@
 <!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
 <!-- <img align="right" height="auto" width="600" alt="GIF" src="https://raw.githubusercontent.com/siberfx/siberfx/main/image/full-stack-development.gif" /> -->
 
-<img align="right" width="570" height="auto" alt="Software Architect" src="https://raw.githubusercontent.com/siberfx/siberfx/main/image/software-architect.svg" />
+<img align="right" width="530" height="auto" alt="Software Architect" src="https://raw.githubusercontent.com/siberfx/siberfx/main/image/software-architect.svg" />
 
  * How to reach me: [contact@siberfx.com](mailto:contact@siberfx.com)
  * My website: [https://siberfx.com/](https://siberfx.com/)
